@@ -21,10 +21,8 @@ from files published by the Indonesia Stock Exchange (IDX).
 
 ## Source
 
-Indonesia Stock Exchange  
-https://www.idx.co.id
-
 The original data belongs to IDX.
+[Indonesia Stock Exchange](https://www.idx.co.id)
 
 ---
 
@@ -41,6 +39,8 @@ Datasets are provided in:
 
 Daily
 
+---
+
 ## License
 
 This dataset is licensed under the Open Database License (ODbL) v1.0.
@@ -56,6 +56,8 @@ As long as you:
 
 Full license text:
 https://opendatacommons.org/licenses/dbcl/dbcl-10.txt
+
+---
 
 ## Support
 
