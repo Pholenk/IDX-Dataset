@@ -21,8 +21,12 @@ from files published by the Indonesia Stock Exchange (IDX).
 
 ## Source
 
-The original data belongs to IDX.
-[Indonesia Stock Exchange](https://www.idx.co.id)
+The original data belongs to [Indonesia Stock Exchange](https://www.idx.co.id).
+
+Last visited: [same as stated in last_updated](https://github.com/Pholenk/IDX-Dataset/blob/976d334295f39452d8331e4e7da2bbe3d3ebf556/metadata.json#L5)
+
+**_Please note that you may find data missing on some dates even if those dates are not listed as market holidays.
+You can verify this by visiting the website and entering the dates manually._**
 
 ---
 
@@ -64,3 +68,5 @@ https://opendatacommons.org/licenses/dbcl/dbcl-10.txt
 If you find this dataset helps your research / project:
 
 [Saweria](https://saweria.co/pholenkadi17)
+
+_PS: Because I'm Indonesian and live here I can't find any other method to receive foreign financial support._
