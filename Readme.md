@@ -59,7 +59,7 @@ As long as you:
 - Share any derivative databases under the same license
 
 Full license text:
-https://opendatacommons.org/licenses/dbcl/dbcl-10.txt
+https://opendatacommons.org/licenses/odbl/odbl-10.txt
 
 ---
 
