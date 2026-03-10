@@ -1,6 +1,6 @@
 [
   {
-    "Date": "2026-03-09",
+    "Date": "2026-03-10",
     "Ticker": "EDGE",
     "Name": "Indointernet Tbk.",
     "Remarks": "--UO2135000000I121------------",
@@ -26,6 +26,34 @@
     "NonRegularVolume": 0,
     "NonRegularValue": 0,
     "NonRegularFrequency": 0
+  },
+  {
+    "Date": "2026-03-09",
+    "Ticker": "EDGE",
+    "Name": "Indointernet Tbk.",
+    "Remarks": "--UO2135000000I121------------",
+    "Previous": "4790",
+    "Open": "0",
+    "High": "0",
+    "Low": "0",
+    "Close": "4790",
+    "Change": "0",
+    "Volume": "0",
+    "Value": "0",
+    "Frequency": "0",
+    "IndexIndividual": "324.7",
+    "Offer": "0",
+    "OfferVolume": "0",
+    "Bid": "0",
+    "BidVolume": "0",
+    "ListedShares": "2020250000",
+    "TradebleShares": "2020250000",
+    "WeightForIndex": "159599750",
+    "ForeignSell": "0",
+    "ForeignBuy": "0",
+    "NonRegularVolume": "0",
+    "NonRegularValue": "0",
+    "NonRegularFrequency": "0"
   },
   {
     "Date": "2026-03-06",

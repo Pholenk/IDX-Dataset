@@ -1,6 +1,6 @@
 [
   {
-    "Date": "2026-03-09",
+    "Date": "2026-03-10",
     "Ticker": "KAYU",
     "Name": "Darmi Bersaudara Tbk.",
     "Remarks": "--U-4100000000B151--DL---Y---X",
@@ -26,6 +26,34 @@
     "NonRegularVolume": 0,
     "NonRegularValue": 0,
     "NonRegularFrequency": 0
+  },
+  {
+    "Date": "2026-03-09",
+    "Ticker": "KAYU",
+    "Name": "Darmi Bersaudara Tbk.",
+    "Remarks": "--U-4100000000B151--DL---Y---X",
+    "Previous": "18",
+    "Open": "0",
+    "High": "0",
+    "Low": "0",
+    "Close": "18",
+    "Change": "0",
+    "Volume": "0",
+    "Value": "0",
+    "Frequency": "0",
+    "IndexIndividual": "12.0",
+    "Offer": "0",
+    "OfferVolume": "0",
+    "Bid": "0",
+    "BidVolume": "0",
+    "ListedShares": "665000000",
+    "TradebleShares": "150000000",
+    "WeightForIndex": "221711000",
+    "ForeignSell": "0",
+    "ForeignBuy": "0",
+    "NonRegularVolume": "0",
+    "NonRegularValue": "0",
+    "NonRegularFrequency": "0"
   },
   {
     "Date": "2026-03-06",

@@ -1,6 +1,6 @@
 [
   {
-    "Date": "2026-03-09",
+    "Date": "2026-03-10",
     "Ticker": "TIRT",
     "Name": "Tirta Mahakam Resources Tbk",
     "Remarks": "--U-4130000000B151-E--S------X",
@@ -23,9 +23,37 @@
     "WeightForIndex": 229470513,
     "ForeignSell": 0,
     "ForeignBuy": 0,
-    "NonRegularVolume": 2000000,
-    "NonRegularValue": 880000000,
-    "NonRegularFrequency": 1
+    "NonRegularVolume": 0,
+    "NonRegularValue": 0,
+    "NonRegularFrequency": 0
+  },
+  {
+    "Date": "2026-03-09",
+    "Ticker": "TIRT",
+    "Name": "Tirta Mahakam Resources Tbk",
+    "Remarks": "--U-4130000000B151-E--S------X",
+    "Previous": "1000",
+    "Open": "0",
+    "High": "0",
+    "Low": "0",
+    "Close": "1000",
+    "Change": "0",
+    "Volume": "0",
+    "Value": "0",
+    "Frequency": "0",
+    "IndexIndividual": "457.1",
+    "Offer": "0",
+    "OfferVolume": "0",
+    "Bid": "0",
+    "BidVolume": "0",
+    "ListedShares": "1011774750",
+    "TradebleShares": "1011774750",
+    "WeightForIndex": "229470513",
+    "ForeignSell": "0",
+    "ForeignBuy": "0",
+    "NonRegularVolume": "2000000",
+    "NonRegularValue": "880000000",
+    "NonRegularFrequency": "1"
   },
   {
     "Date": "2026-03-06",

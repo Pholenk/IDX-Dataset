@@ -1,6 +1,6 @@
 [
   {
-    "Date": "2026-03-09",
+    "Date": "2026-03-10",
     "Ticker": "DUCK",
     "Name": "Jaya Bersama Indo Tbk.",
     "Remarks": "--U-4100000000E515---L---Y---X",
@@ -26,6 +26,34 @@
     "NonRegularVolume": 0,
     "NonRegularValue": 0,
     "NonRegularFrequency": 0
+  },
+  {
+    "Date": "2026-03-09",
+    "Ticker": "DUCK",
+    "Name": "Jaya Bersama Indo Tbk.",
+    "Remarks": "--U-4100000000E515---L---Y---X",
+    "Previous": "176",
+    "Open": "0",
+    "High": "0",
+    "Low": "0",
+    "Close": "176",
+    "Change": "0",
+    "Volume": "0",
+    "Value": "0",
+    "Frequency": "0",
+    "IndexIndividual": "34.9",
+    "Offer": "0",
+    "OfferVolume": "0",
+    "Bid": "0",
+    "BidVolume": "0",
+    "ListedShares": "1283330000",
+    "TradebleShares": "1283330000",
+    "WeightForIndex": "1116497100",
+    "ForeignSell": "0",
+    "ForeignBuy": "0",
+    "NonRegularVolume": "0",
+    "NonRegularValue": "0",
+    "NonRegularFrequency": "0"
   },
   {
     "Date": "2026-03-06",

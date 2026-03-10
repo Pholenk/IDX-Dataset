@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-10,OLIV,Oscar Mitra Sukses Sejahtera Tbk.,--U-3000000000E211------------,53,0,54,50,51,-2,2659400,134864000,302,51.0,51,112100,50,668000,1900073314,1900073314,0,0,1905400,0,0,0
 2026-03-09,OLIV,Oscar Mitra Sukses Sejahtera Tbk.,--U-3000000000E211------------,51,0,54,46,53,2,6531500,313192700,514,53.0,53,1177900,50,111900,1900073314,1900073314,0,245900,1963800,0,0,0
 2026-03-06,OLIV,Oscar Mitra Sukses Sejahtera Tbk.,--U-3000000000E211------------,52,0,53,47,51,-1,2729000,140127300,422,51.0,52,210800,51,544000,1900073314,1900073314,0,210400,717700,0,0,0
 2026-03-05,OLIV,Oscar Mitra Sukses Sejahtera Tbk.,--U-3000000000E211------------,55,0,57,51,52,-3,11923400,630032700,822,52.0,53,50600,52,371600,1900073314,1900073314,0,5807600,770800,0,0,0

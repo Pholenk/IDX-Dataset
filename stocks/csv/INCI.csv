@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-10,INCI,Intanwijaya Internasional Tbk,--UO2130000000B111------------,665,0,690,670,685,20,28300,19354000,31,78.2,685,3400,680,7700,207656617,207656617,60594201,0,0,0,0,0
 2026-03-09,INCI,Intanwijaya Internasional Tbk,--UO2130000000B111------------,695,685,690,660,665,-30,191100,127665000,123,75.9,670,71500,665,10100,207656617,207656617,60594201,0,0,0,0,0
 2026-03-06,INCI,Intanwijaya Internasional Tbk,--UO2130000000B111------------,700,0,700,685,695,-5,20500,14240500,41,79.3,695,41200,690,12900,207656617,207656617,60594201,0,0,0,0,0
 2026-03-05,INCI,Intanwijaya Internasional Tbk,--UO2130000000B111------------,695,700,710,680,700,5,94800,65850500,68,79.9,700,165100,695,1000,207656617,207656617,60594201,0,0,0,0,0

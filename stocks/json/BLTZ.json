@@ -1,6 +1,6 @@
 [
   {
-    "Date": "2026-03-09",
+    "Date": "2026-03-10",
     "Ticker": "BLTZ",
     "Name": "Graha Layar Prima Tbk.",
     "Remarks": "--U-4135000000E514-----------X",
@@ -26,6 +26,34 @@
     "NonRegularVolume": 0,
     "NonRegularValue": 0,
     "NonRegularFrequency": 0
+  },
+  {
+    "Date": "2026-03-09",
+    "Ticker": "BLTZ",
+    "Name": "Graha Layar Prima Tbk.",
+    "Remarks": "--U-4135000000E514-----------X",
+    "Previous": "2700",
+    "Open": "0",
+    "High": "0",
+    "Low": "0",
+    "Close": "2700",
+    "Change": "0",
+    "Volume": "0",
+    "Value": "0",
+    "Frequency": "0",
+    "IndexIndividual": "180.0",
+    "Offer": "2700",
+    "OfferVolume": "6800",
+    "Bid": "0",
+    "BidVolume": "0",
+    "ListedShares": "873937142",
+    "TradebleShares": "873937142",
+    "WeightForIndex": "78304768",
+    "ForeignSell": "0",
+    "ForeignBuy": "0",
+    "NonRegularVolume": "0",
+    "NonRegularValue": "0",
+    "NonRegularFrequency": "0"
   },
   {
     "Date": "2026-03-06",
