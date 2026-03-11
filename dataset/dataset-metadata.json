@@ -1,0 +1,429 @@
+{
+    "id_no": 9676142,
+    "id": "pholenk/eod-data-indonesia-stock-exchange",
+    "title": "EOD Data Indonesia Stock Exchange",
+    "subtitle": "Daily update end of day CSV and JSON data",
+    "description": "It all started with difficulties obtaining data from yfinance for some data, such as sectoral indices and some lesser-known stock codes.\nThe original data, available for download from idx.co.id, is in standard XLSX format, which makes it somewhat difficult to process.\n\nGenerally, the data structure includes the previous price, highest price, lowest price, closing price, and trading volume. All are in a daily timeframe. Note that the data structure for indices excludes the opening price because the original data does not include it, while each stock code does.\n\nContent is available from January 1, 2020, to March 9, 2026 (as indicated by last_updated in the metadata.json file).",
+    "keywords": ["finance", "json", "indonesian"],
+    "licenses": [{"name": "ODbL-1.0"}],
+    "resources": [
+        {
+            "path": "preview/indices/csv",
+            "description": "The directory where all CSV formatted files related to the index are located"
+        },
+        {
+            "path": "preview/indices/json",
+            "description": "The directory where all JSON formatted files related to the index are located"
+        },
+        {
+            "path": "preview/indices/csv/ABX.csv",
+            "description": "Index ABX in csv format",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Date",
+                        "description": "date of price data formatted as YYYY-MM-DD",
+                        "type": "string"
+                    },
+                    {
+                        "name": "Previous",
+                        "description": "previous closing price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Highest",
+                        "description": "highest price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Lowest",
+                        "description": "lowest price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Close",
+                        "description": "closing price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Constituent",
+                        "description": "the number of stock codes contained in the index",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "Change",
+                        "description": "the difference between the closing price and the previous price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Volume",
+                        "description": "trading volume",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "Value",
+                        "description": "market value",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "Frequency",
+                        "description": "",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "Capitalization",
+                        "description": "",
+                        "type": "integer"
+                    }
+                ]
+            }
+        },
+        {
+            "path": "preview/indices/json/ABX.json",
+            "description": "Index ABX in json format",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Date",
+                        "description": "date of price data formatted as YYYY-MM-DD",
+                        "type": "string"
+                    },
+                    {
+                        "name": "Previous",
+                        "description": "previous closing price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Highest",
+                        "description": "highest price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Lowest",
+                        "description": "lowest price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Close",
+                        "description": "closing price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Constituent",
+                        "description": "the number of stock codes contained in the index",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "Change",
+                        "description": "the difference between the closing price and the previous price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Volume",
+                        "description": "trading volume",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "Value",
+                        "description": "market value",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "Frequency",
+                        "description": "",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "Capitalization",
+                        "description": "",
+                        "type": "integer"
+                    }
+                ]
+            }
+        },
+        {
+            "path": "preview/stocks/csv",
+            "description": "The directory where all CSV formatted files related to the stock code are located"
+        },
+        {
+            "path": "preview/stocks/json",
+            "description": "The directory where all JSON formatted files related to the stock code are located"
+        },
+        {
+            "path": "preview/stocks/csv/AADI.csv",
+            "description": "Index AADI in csv format",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Date",
+                        "description": "date of price data formatted as YYYY-MM-DD",
+                        "type": "string"
+                    },
+                    {
+                        "name": "Ticker",
+                        "description": "stock code",
+                        "type": "string"
+                    },
+                    {
+                        "name": "Name",
+                        "description": "company's name",
+                        "type": "string"
+                    },
+                    {
+                        "name": "Remarks",
+                        "description": "remarks code from original source",
+                        "type": "string"
+                    },
+                    {
+                        "name": "Previous",
+                        "description": "previous closing price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Open",
+                        "description": "opening price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "High",
+                        "description": "highest price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Low",
+                        "description": "lowest price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Close",
+                        "description": "closing price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Change",
+                        "description": "difference between the closing price and the previous price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Volume",
+                        "description": "trading volume",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "Value",
+                        "description": "market value",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "Frequency",
+                        "description": "the numbers of executed transaction",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "IndexIndividual",
+                        "description": "price index of individual stock compared to its IPO prices as the base price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Offer",
+                        "description": "last snapshot of offer price based on the Previous or Opening price",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "OfferVolume",
+                        "description": "the numbers of available lots that already queued for the Offer price before market closed",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "Bid",
+                        "description": "last snapshot of bid price based on the highest bid price",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "BidVolume",
+                        "description": "the numbers of lots that already queued for the Bid price before market closed",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "ListedShares",
+                        "description": "the numbers of company shares",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "TradebleShares",
+                        "description": "the numbers of company shares that can be traded",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "WeightForIndex",
+                        "description": "adjusted value for the index (Free Float Shares x Price)",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "ForeignSell",
+                        "description": "the numbers of net foreign sell",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "ForeignBuy",
+                        "description": "the numbers of net foreign buy",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "NonRegularVolume",
+                        "description": "trading volume on non regular market",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "NonRegularValue",
+                        "description": "market value on non regular market",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "NonRegularFrequency",
+                        "description": "the numbers of executed transaction on non regular market",
+                        "type": "integer"
+                    }
+                ]
+            }
+        },
+        {
+            "path": "preview/stocks/json/AADI.json",
+            "description": "Index AADI in json format",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Date",
+                        "description": "date of price data formatted as YYYY-MM-DD",
+                        "type": "string"
+                    },
+                    {
+                        "name": "Ticker",
+                        "description": "stock code",
+                        "type": "string"
+                    },
+                    {
+                        "name": "Name",
+                        "description": "company's name",
+                        "type": "string"
+                    },
+                    {
+                        "name": "Remarks",
+                        "description": "remarks code from original source",
+                        "type": "string"
+                    },
+                    {
+                        "name": "Previous",
+                        "description": "previous closing price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Open",
+                        "description": "opening price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "High",
+                        "description": "highest price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Low",
+                        "description": "lowest price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Close",
+                        "description": "closing price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Change",
+                        "description": "difference between the closing price and the previous price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Volume",
+                        "description": "trading volume",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "Value",
+                        "description": "market value",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "Frequency",
+                        "description": "the numbers of executed transaction",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "IndexIndividual",
+                        "description": "price index of individual stock compared to its IPO prices as the base price",
+                        "type": "decimal"
+                    },
+                    {
+                        "name": "Offer",
+                        "description": "last snapshot of offer price based on the Previous or Opening price",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "OfferVolume",
+                        "description": "the numbers of available lots that already queued for the Offer price before market closed",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "Bid",
+                        "description": "last snapshot of bid price based on the highest bid price",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "BidVolume",
+                        "description": "the numbers of lots that already queued for the Bid price before market closed",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "ListedShares",
+                        "description": "the numbers of company shares",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "TradebleShares",
+                        "description": "the numbers of company shares that can be traded",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "WeightForIndex",
+                        "description": "adjusted value for the index (Free Float Shares x Price)",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "ForeignSell",
+                        "description": "the numbers of net foreign sell",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "ForeignBuy",
+                        "description": "the numbers of net foreign buy",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "NonRegularVolume",
+                        "description": "trading volume on non regular market",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "NonRegularValue",
+                        "description": "market value on non regular market",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "NonRegularFrequency",
+                        "description": "the numbers of executed transaction on non regular market",
+                        "type": "integer"
+                    }
+                ]
+            }
+        }
+    ]
+}
