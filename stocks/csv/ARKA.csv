@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-11,ARKA,Arkha Jayanti Persada Tbk.,--U-4100000000C143-----------X,33,0,33,32,33,0,1808600,59519600,118,14.0,35,41400,33,750000,2000000000,2000000000,907600000,0,0,0,0,0
 2026-03-10,ARKA,Arkha Jayanti Persada Tbk.,--U-4100000000C143-----------X,35,0,35,33,33,-2,6718800,224656900,225,14.0,34,327000,33,295300,2000000000,2000000000,907600000,0,0,0,0,0
 2026-03-09,ARKA,Arkha Jayanti Persada Tbk.,--U-4100000000C143-----------X,38,0,38,35,35,-3,7616800,282284000,323,14.8,35,781100,0,0,2000000000,2000000000,907600000,0,0,0,0,0
 2026-03-06,ARKA,Arkha Jayanti Persada Tbk.,--U-4100000000C143-----------X,35,0,38,38,38,3,17909300,680553400,371,16.1,0,0,38,6659900,2000000000,2000000000,907600000,0,0,0,0,0

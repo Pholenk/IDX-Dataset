@@ -1,6 +1,6 @@
 [
   {
-    "Date": "2026-03-10",
+    "Date": "2026-03-11",
     "Ticker": "MKNT",
     "Name": "Mitra Komunikasi Nusantara Tbk.",
     "Remarks": "--U-4100000000E711-E-L-------X",
@@ -26,6 +26,34 @@
     "NonRegularVolume": 0,
     "NonRegularValue": 0,
     "NonRegularFrequency": 0
+  },
+  {
+    "Date": "2026-03-10",
+    "Ticker": "MKNT",
+    "Name": "Mitra Komunikasi Nusantara Tbk.",
+    "Remarks": "--U-4100000000E711-E-L-------X",
+    "Previous": "1",
+    "Open": "0",
+    "High": "0",
+    "Low": "0",
+    "Close": "1",
+    "Change": "0",
+    "Volume": "0",
+    "Value": "0",
+    "Frequency": "0",
+    "IndexIndividual": "2.5",
+    "Offer": "0",
+    "OfferVolume": "0",
+    "Bid": "0",
+    "BidVolume": "0",
+    "ListedShares": "5500000000",
+    "TradebleShares": "5500000000",
+    "WeightForIndex": "3636050000",
+    "ForeignSell": "0",
+    "ForeignBuy": "0",
+    "NonRegularVolume": "0",
+    "NonRegularValue": "0",
+    "NonRegularFrequency": "0"
   },
   {
     "Date": "2026-03-09",

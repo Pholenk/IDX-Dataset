@@ -1,6 +1,6 @@
 [
   {
-    "Date": "2026-03-10",
+    "Date": "2026-03-11",
     "Ticker": "WICO",
     "Name": "Wicaksana Overseas International Tbk.",
     "Remarks": "--U-4100000000D112-E---------X",
@@ -26,6 +26,34 @@
     "NonRegularVolume": 0,
     "NonRegularValue": 0,
     "NonRegularFrequency": 0
+  },
+  {
+    "Date": "2026-03-10",
+    "Ticker": "WICO",
+    "Name": "Wicaksana Overseas International Tbk.",
+    "Remarks": "--U-4100000000D112-E---------X",
+    "Previous": "123",
+    "Open": "0",
+    "High": "0",
+    "Low": "0",
+    "Close": "123",
+    "Change": "0",
+    "Volume": "0",
+    "Value": "0",
+    "Frequency": "0",
+    "IndexIndividual": "10.2",
+    "Offer": "0",
+    "OfferVolume": "0",
+    "Bid": "0",
+    "BidVolume": "0",
+    "ListedShares": "2393710348",
+    "TradebleShares": "2393710348",
+    "WeightForIndex": "107716966",
+    "ForeignSell": "0",
+    "ForeignBuy": "0",
+    "NonRegularVolume": "0",
+    "NonRegularValue": "0",
+    "NonRegularFrequency": "0"
   },
   {
     "Date": "2026-03-09",

@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-11,BTON,Betonjaya Manunggal Tbk.,--UO2100000000B144------------,372,378,390,370,374,2,21700,8145200,14,1249.0,380,1600,374,9600,720000000,720000000,73512000,0,0,0,0,0
 2026-03-10,BTON,Betonjaya Manunggal Tbk.,--UO2100000000B144------------,372,374,400,372,372,0,6600,2497800,19,1242.4,384,300,372,4400,720000000,720000000,73512000,0,0,0,0,0
 2026-03-09,BTON,Betonjaya Manunggal Tbk.,--UO2100000000B144------------,388,0,400,370,372,-16,21900,8243400,37,1242.4,384,4000,372,3900,720000000,720000000,73512000,0,0,0,0,0
 2026-03-06,BTON,Betonjaya Manunggal Tbk.,--UO2100000000B144------------,392,0,392,388,388,-4,32500,12611800,22,1295.8,390,4400,388,600,720000000,720000000,73512000,0,0,0,0,0

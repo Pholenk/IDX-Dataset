@@ -1,6 +1,6 @@
 [
   {
-    "Date": "2026-03-10",
+    "Date": "2026-03-11",
     "Ticker": "GOTOM",
     "Name": "MVS GoTo Gojek Tokopedia Tbk.",
     "Remarks": "--UO5000000000I111----------K-",
@@ -26,6 +26,34 @@
     "NonRegularVolume": 0,
     "NonRegularValue": 0,
     "NonRegularFrequency": 0
+  },
+  {
+    "Date": "2026-03-10",
+    "Ticker": "GOTOM",
+    "Name": "MVS GoTo Gojek Tokopedia Tbk.",
+    "Remarks": "--UO5000000000I111----------K-",
+    "Previous": "68",
+    "Open": "0",
+    "High": "0",
+    "Low": "0",
+    "Close": "68",
+    "Change": "0",
+    "Volume": "0",
+    "Value": "0",
+    "Frequency": "0",
+    "IndexIndividual": "100.0",
+    "Offer": "0",
+    "OfferVolume": "0",
+    "Bid": "0",
+    "BidVolume": "0",
+    "ListedShares": "50571730000",
+    "TradebleShares": "50571730000",
+    "WeightForIndex": "0",
+    "ForeignSell": "0",
+    "ForeignBuy": "0",
+    "NonRegularVolume": "0",
+    "NonRegularValue": "0",
+    "NonRegularFrequency": "0"
   },
   {
     "Date": "2026-03-09",

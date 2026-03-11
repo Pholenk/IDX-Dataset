@@ -1,6 +1,6 @@
 [
   {
-    "Date": "2026-03-10",
+    "Date": "2026-03-11",
     "Ticker": "SUPR",
     "Name": "Solusi Tunas Pratama Tbk.",
     "Remarks": "--U-4135000000J321-----------X",
@@ -26,6 +26,34 @@
     "NonRegularVolume": 0,
     "NonRegularValue": 0,
     "NonRegularFrequency": 0
+  },
+  {
+    "Date": "2026-03-10",
+    "Ticker": "SUPR",
+    "Name": "Solusi Tunas Pratama Tbk.",
+    "Remarks": "--U-4135000000J321-----------X",
+    "Previous": "43850",
+    "Open": "0",
+    "High": "0",
+    "Low": "0",
+    "Close": "43850",
+    "Change": "0",
+    "Volume": "0",
+    "Value": "0",
+    "Frequency": "0",
+    "IndexIndividual": "1346.8",
+    "Offer": "0",
+    "OfferVolume": "0",
+    "Bid": "0",
+    "BidVolume": "0",
+    "ListedShares": "1137579698",
+    "TradebleShares": "1137579698",
+    "WeightForIndex": "1023822",
+    "ForeignSell": "0",
+    "ForeignBuy": "0",
+    "NonRegularVolume": "0",
+    "NonRegularValue": "0",
+    "NonRegularFrequency": "0"
   },
   {
     "Date": "2026-03-09",

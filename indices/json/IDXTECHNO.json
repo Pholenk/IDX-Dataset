@@ -1,16 +1,29 @@
 [
   {
-    "Date": "2026-03-10",
-    "Previous": 7733.289,
-    "Highest": 7882.573,
-    "Lowest": 7698.866,
-    "Close": 7729.929,
+    "Date": "2026-03-11",
+    "Previous": 7729.929,
+    "Highest": 7899.419,
+    "Lowest": 7718.764,
+    "Close": 7797.026,
     "Constituent": 40,
-    "Change": -3.36,
-    "Volume": 3898949047,
-    "Value": 374788718847,
-    "Frequency": 56788,
-    "Capitalization": 763754349162398
+    "Change": 67.097,
+    "Volume": 3090591350,
+    "Value": 384018045040,
+    "Frequency": 52918,
+    "Capitalization": 762566733397547
+  },
+  {
+    "Date": "2026-03-10",
+    "Previous": "7733.289",
+    "Highest": "7882.573",
+    "Lowest": "7698.866",
+    "Close": "7729.929",
+    "Constituent": "40",
+    "Change": "-3.36",
+    "Volume": "3898949047",
+    "Value": "374788718847",
+    "Frequency": "56788",
+    "Capitalization": "763754349162398"
   },
   {
     "Date": "2026-03-09",

@@ -1,6 +1,6 @@
 [
   {
-    "Date": "2026-03-10",
+    "Date": "2026-03-11",
     "Ticker": "TAMA",
     "Name": "Lancartama Sejati Tbk.",
     "Remarks": "--U-4130000000J211-----------X",
@@ -23,9 +23,37 @@
     "WeightForIndex": 448800260,
     "ForeignSell": 0,
     "ForeignBuy": 0,
-    "NonRegularVolume": 326700,
-    "NonRegularValue": 71874000,
-    "NonRegularFrequency": 2
+    "NonRegularVolume": 1750000,
+    "NonRegularValue": 324900000,
+    "NonRegularFrequency": 17
+  },
+  {
+    "Date": "2026-03-10",
+    "Ticker": "TAMA",
+    "Name": "Lancartama Sejati Tbk.",
+    "Remarks": "--U-4130000000J211-----------X",
+    "Previous": "113",
+    "Open": "0",
+    "High": "0",
+    "Low": "0",
+    "Close": "113",
+    "Change": "0",
+    "Volume": "0",
+    "Value": "0",
+    "Frequency": "0",
+    "IndexIndividual": "64.6",
+    "Offer": "0",
+    "OfferVolume": "0",
+    "Bid": "0",
+    "BidVolume": "0",
+    "ListedShares": "1200000696",
+    "TradebleShares": "1200000696",
+    "WeightForIndex": "448800260",
+    "ForeignSell": "0",
+    "ForeignBuy": "0",
+    "NonRegularVolume": "326700",
+    "NonRegularValue": "71874000",
+    "NonRegularFrequency": "2"
   },
   {
     "Date": "2026-03-09",
