@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-12,BMSR,Bintang Mitra Semestaraya Tbk,--UO2130000000B111------------,322.0,322.0,326.0,310.0,316.0,-6.0,2000,633600,13,63.2,320,9800,316,2500,1159200024,1159200024,473880970,0,0,0,0,0
 2026-03-11,BMSR,Bintang Mitra Semestaraya Tbk,--UO2130000000B111------------,302.0,0.0,322.0,294.0,322.0,20.0,93300,28841800,53,64.4,322,1000,302,1000,1159200024,1159200024,473880970,0,0,0,0,0
 2026-03-10,BMSR,Bintang Mitra Semestaraya Tbk,--UO2130000000B111------------,302.0,0.0,322.0,292.0,302.0,0.0,65100,19366200,45,60.4,302,900,294,10000,1159200024,1159200024,473880970,0,0,0,0,0
 2026-03-09,BMSR,Bintang Mitra Semestaraya Tbk,--UO2130000000B111------------,322.0,0.0,318.0,296.0,302.0,-20.0,50500,15325800,31,60.4,316,500,302,2000,1159200024,1159200024,473880970,8100,7500,0,0,0

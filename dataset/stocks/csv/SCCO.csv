@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-12,SCCO,Supreme Cable Manufacturing & Commerce Tbk.,--UO2135000000C131------------,2300.0,0.0,2350.0,2290.0,2290.0,-10.0,15900,36760000,37,5918.4,2320,800,2290,700,822333600,822333600,73187690,900,6100,0,0,0
 2026-03-11,SCCO,Supreme Cable Manufacturing & Commerce Tbk.,--UO2135000000C131------------,2300.0,2290.0,2350.0,2290.0,2300.0,0.0,6700,15501000,25,5944.2,2330,400,2300,1200,822333600,822333600,73187690,200,300,0,0,0
 2026-03-10,SCCO,Supreme Cable Manufacturing & Commerce Tbk.,--UO2135000000C131------------,2300.0,0.0,2360.0,2280.0,2300.0,0.0,56900,130289000,32,5944.2,2310,1000,2300,600,822333600,822333600,73187690,0,0,0,0,0
 2026-03-09,SCCO,Supreme Cable Manufacturing & Commerce Tbk.,--UO2135000000C131------------,2300.0,2300.0,2360.0,2270.0,2300.0,0.0,21600,49767000,57,5944.2,2300,200,2290,300,822333600,822333600,73187690,100,0,0,0,0
