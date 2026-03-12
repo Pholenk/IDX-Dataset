@@ -8,15 +8,15 @@
     "licenses": [{"name": "ODbL-1.0"}],
     "resources": [
         {
-            "path": "preview/indices/csv",
+            "path": "./dataset/preview/indices/csv",
             "description": "The directory where all CSV formatted files related to the index are located"
         },
         {
-            "path": "preview/indices/json",
+            "path": "./dataset/preview/indices/json",
             "description": "The directory where all JSON formatted files related to the index are located"
         },
         {
-            "path": "preview/indices/csv/ABX.csv",
+            "path": "./dataset/preview/indices/csv/ABX.csv",
             "description": "Index ABX in csv format",
             "schema": {
                 "fields": [
@@ -79,7 +79,7 @@
             }
         },
         {
-            "path": "preview/indices/json/ABX.json",
+            "path": "./dataset/preview/indices/json/ABX.json",
             "description": "Index ABX in json format",
             "schema": {
                 "fields": [
@@ -142,15 +142,15 @@
             }
         },
         {
-            "path": "preview/stocks/csv",
+            "path": "./dataset/preview/stocks/csv",
             "description": "The directory where all CSV formatted files related to the stock code are located"
         },
         {
-            "path": "preview/stocks/json",
+            "path": "./dataset/preview/stocks/json",
             "description": "The directory where all JSON formatted files related to the stock code are located"
         },
         {
-            "path": "preview/stocks/csv/AADI.csv",
+            "path": "./dataset/preview/stocks/csv/AADI.csv",
             "description": "Index AADI in csv format",
             "schema": {
                 "fields": [
@@ -288,7 +288,7 @@
             }
         },
         {
-            "path": "preview/stocks/json/AADI.json",
+            "path": "./dataset/preview/stocks/json/AADI.json",
             "description": "Index AADI in json format",
             "schema": {
                 "fields": [
