@@ -7,14 +7,16 @@ from files published by the Indonesia Stock Exchange (IDX).
 
 ```
 .
-├── indices/                           # Directory of index dataset
-    └── csv                            # csv files from .xlsx file for each index
-    └── json                           # json files from .csv file for each index
-├── stocks/                            # Directory of stock ticker dataset
-    └── csv                            # csv files from .xlsx file for each stock ticker
-    └── json                           # json files from .csv file for each stock ticker
-├── licenses
-└── metadata.json
+├── dataset/                           # Directory of dataset
+    ├── indices/                       # Directory of index dataset
+        └── csv                        # csv files from .xlsx file for each index
+        └── json                       # json files from .csv file for each index
+    ├── stocks/                        # Directory of stock ticker dataset
+        └── csv                        # csv files from .xlsx file for each stock ticker
+        └── json                       # json files from .csv file for each stock ticker
+    └── dataset-metadata.json          # metadata for kaggle
+├── licenses                           # Directory of code and data license
+└── metadata.json                      # metadata for entire project
 ```
 
 ---
