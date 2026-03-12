@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-12,SOUL,Mitra Tirta Buwana Tbk.,--U-3000000000D212------------,59,0,64,58,59,0,2199400,134928000,315,53.6,59,1400,58,88500,1082526223,1082526223,0,0,0,0,0,0
 2026-03-11,SOUL,Mitra Tirta Buwana Tbk.,--U-3000000000D212------------,54,0,59,54,59,5,1585100,91999300,254,53.6,0,0,59,19000,1082526223,1082526223,0,0,0,0,0,0
 2026-03-10,SOUL,Mitra Tirta Buwana Tbk.,--U-3000000000D212------------,56,0,60,52,54,-2,1175400,65218700,113,49.1,57,182200,54,8900,1082526223,1082526223,0,0,0,0,0,0
 2026-03-09,SOUL,Mitra Tirta Buwana Tbk.,--U-3000000000D212------------,60,0,61,54,56,-4,1050000,59018600,147,50.9,56,5300,55,25700,1082526223,1082526223,0,0,0,0,0,0

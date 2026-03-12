@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-12,WGSH,Wira Global Solusi Tbk.,--U-3000000000I131------------,226,0,242,224,236,10,174400,40950400,63,168.6,236,24400,232,50800,1042500000,1042500000,0,0,0,0,0,0
 2026-03-11,WGSH,Wira Global Solusi Tbk.,--U-3000000000I131------------,236,0,242,220,226,-10,122100,28050800,57,161.4,226,9000,224,38200,1042500000,1042500000,0,0,0,0,0,0
 2026-03-10,WGSH,Wira Global Solusi Tbk.,--U-3000000000I131------------,230,0,246,230,236,6,99300,23460000,51,168.6,236,62200,234,1200,1042500000,1042500000,0,49300,0,0,0,0
 2026-03-09,WGSH,Wira Global Solusi Tbk.,--U-3000000000I131------------,242,0,242,218,230,-12,335600,75871800,101,164.3,230,16700,228,8900,1042500000,1042500000,0,0,0,0,0,0

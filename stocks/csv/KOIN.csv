@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-12,KOIN,Kokoh Inti Arebama Tbk,--U-4130000000C121-E---------X,86,0,86,86,86,0,600,51600,3,58.2,88,7800,86,31200,980843732,980843732,92003142,0,0,0,0,0
 2026-03-11,KOIN,Kokoh Inti Arebama Tbk,--U-4130000000C121-E---------X,88,0,86,86,86,-2,52200,4489200,7,58.2,90,47100,86,28200,980843732,980843732,92003142,0,0,0,0,0
 2026-03-10,KOIN,Kokoh Inti Arebama Tbk,--U-4130000000C121-E---------X,80,0,88,88,88,8,3200,281600,9,59.5,88,31200,87,100,980843732,980843732,92003142,0,0,0,0,0
 2026-03-09,KOIN,Kokoh Inti Arebama Tbk,--U-4130000000C121-E---------X,80,0,80,80,80,0,27300,2184000,9,54.1,88,30000,80,28200,980843732,980843732,92003142,0,0,0,0,0

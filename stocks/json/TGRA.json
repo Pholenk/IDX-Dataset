@@ -1,6 +1,6 @@
 [
   {
-    "Date": "2026-03-11",
+    "Date": "2026-03-12",
     "Ticker": "TGRA",
     "Name": "Terregra Asia Energy Tbk.",
     "Remarks": "--U-4100000000J411----S------X",
@@ -26,6 +26,34 @@
     "NonRegularVolume": 0,
     "NonRegularValue": 0,
     "NonRegularFrequency": 0
+  },
+  {
+    "Date": "2026-03-11",
+    "Ticker": "TGRA",
+    "Name": "Terregra Asia Energy Tbk.",
+    "Remarks": "--U-4100000000J411----S------X",
+    "Previous": "27",
+    "Open": "0",
+    "High": "0",
+    "Low": "0",
+    "Close": "27",
+    "Change": "0",
+    "Volume": "0",
+    "Value": "0",
+    "Frequency": "0",
+    "IndexIndividual": "13.5",
+    "Offer": "0",
+    "OfferVolume": "0",
+    "Bid": "0",
+    "BidVolume": "0",
+    "ListedShares": "2750000000",
+    "TradebleShares": "2750000000",
+    "WeightForIndex": "2133175000",
+    "ForeignSell": "0",
+    "ForeignBuy": "0",
+    "NonRegularVolume": "0",
+    "NonRegularValue": "0",
+    "NonRegularFrequency": "0"
   },
   {
     "Date": "2026-03-10",

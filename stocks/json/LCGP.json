@@ -1,6 +1,6 @@
 [
   {
-    "Date": "2026-03-11",
+    "Date": "2026-03-12",
     "Ticker": "LCGP",
     "Name": "Eureka Prima Jakarta Tbk.",
     "Remarks": "--U-4100000000H111---L---Y---X",
@@ -26,6 +26,34 @@
     "NonRegularVolume": 0,
     "NonRegularValue": 0,
     "NonRegularFrequency": 0
+  },
+  {
+    "Date": "2026-03-11",
+    "Ticker": "LCGP",
+    "Name": "Eureka Prima Jakarta Tbk.",
+    "Remarks": "--U-4100000000H111---L---Y---X",
+    "Previous": "114",
+    "Open": "0",
+    "High": "0",
+    "Low": "0",
+    "Close": "114",
+    "Change": "0",
+    "Volume": "0",
+    "Value": "0",
+    "Frequency": "0",
+    "IndexIndividual": "91.2",
+    "Offer": "0",
+    "OfferVolume": "0",
+    "Bid": "0",
+    "BidVolume": "0",
+    "ListedShares": "5630000914",
+    "TradebleShares": "5630000914",
+    "WeightForIndex": "4919494799",
+    "ForeignSell": "0",
+    "ForeignBuy": "0",
+    "NonRegularVolume": "0",
+    "NonRegularValue": "0",
+    "NonRegularFrequency": "0"
   },
   {
     "Date": "2026-03-10",
