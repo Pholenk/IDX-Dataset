@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-16,KDSI,Kedawung Setia Industrial Tbk.,--UO2130000000B131------------,446.0,446.0,458.0,426.0,446.0,0.0,8200,3564200,14,445.5,444,100,428,100,1620000000,1620000000,198612000,0,0,0,0,0
 2026-03-13,KDSI,Kedawung Setia Industrial Tbk.,--UO2130000000B131------------,448.0,0.0,446.0,446.0,446.0,-2.0,500,223000,1,445.5,446,7900,428,5400,1620000000,1620000000,198612000,0,0,0,0,0
 2026-03-12,KDSI,Kedawung Setia Industrial Tbk.,--UO2130000000B131------------,444.0,0.0,448.0,426.0,448.0,4.0,17500,7793000,21,447.5,446,1100,430,1600,1620000000,1620000000,198612000,9900,0,0,0,0
 2026-03-11,KDSI,Kedawung Setia Industrial Tbk.,--UO2130000000B131------------,434.0,0.0,446.0,426.0,444.0,10.0,400,174600,4,443.5,442,1000,430,200,1620000000,1620000000,198612000,0,0,0,0,0

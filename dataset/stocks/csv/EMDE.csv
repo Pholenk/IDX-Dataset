@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-16,EMDE,Megapolitan Developments Tbk.,--UO2130000000H111------------,74.0,73.0,77.0,72.0,77.0,3.0,1335500,97986800,145,30.8,77,500,74,5000,3350000000,3350000000,559450000,0,0,0,0,0
 2026-03-13,EMDE,Megapolitan Developments Tbk.,--UO2130000000H111------------,76.0,77.0,77.0,73.0,74.0,-2.0,1129500,83572100,164,29.6,74,37800,73,32900,3350000000,3350000000,559450000,0,141800,0,0,0
 2026-03-12,EMDE,Megapolitan Developments Tbk.,--UO2130000000H111------------,78.0,0.0,78.0,73.0,76.0,-2.0,1719100,129612900,249,30.4,76,47400,75,82500,3350000000,3350000000,559450000,0,354100,0,0,0
 2026-03-11,EMDE,Megapolitan Developments Tbk.,--UO2130000000H111------------,79.0,79.0,79.0,77.0,78.0,-1.0,1626800,126160400,188,31.2,78,61900,77,113200,3350000000,3350000000,559450000,445900,0,0,0,0

@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-16,SOSS,Shield On Service Tbk.,--U-4130000000C231-----------X,840.0,0.0,0.0,0.0,840.0,0.0,0,0,0,304.3,835,300,760,1000,799414231,799414231,25261490,0,0,0,0,0
 2026-03-13,SOSS,Shield On Service Tbk.,--U-4130000000C231-----------X,840.0,0.0,840.0,840.0,840.0,0.0,2300,1932000,6,304.3,840,15700,800,100,799414231,799414231,25261490,0,0,0,0,0
 2026-03-12,SOSS,Shield On Service Tbk.,--U-4130000000C231-----------X,810.0,0.0,840.0,810.0,840.0,30.0,13300,11019000,13,304.3,870,1800,840,4400,799414231,799414231,25261490,0,8100,0,0,0
 2026-03-11,SOSS,Shield On Service Tbk.,--U-4130000000C231-----------X,740.0,0.0,810.0,810.0,810.0,70.0,5000,4050000,4,293.5,805,7400,740,14000,799414231,799414231,25261490,0,0,0,0,0

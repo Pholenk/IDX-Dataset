@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-16,LFLO,Imago Mulia Persada Tbk.,--U-3000000000E211------------,570.0,0.0,565.0,530.0,540.0,-30.0,10600,5792500,10,540.0,540,1900,535,100,1307734937,1307734937,0,0,0,0,0,0
 2026-03-13,LFLO,Imago Mulia Persada Tbk.,--U-3000000000E211------------,570.0,0.0,580.0,530.0,570.0,0.0,6800,3727500,12,570.0,570,11000,540,400,1307734937,1307734937,0,0,0,0,0,0
 2026-03-12,LFLO,Imago Mulia Persada Tbk.,--U-3000000000E211------------,565.0,0.0,585.0,530.0,570.0,5.0,3800,2167500,19,570.0,570,12800,545,600,1307734937,1307734937,0,0,0,0,0,0
 2026-03-11,LFLO,Imago Mulia Persada Tbk.,--U-3000000000E211------------,560.0,0.0,580.0,525.0,565.0,5.0,1000,559500,6,565.0,560,12300,540,100,1307734937,1307734937,0,0,0,0,0,0

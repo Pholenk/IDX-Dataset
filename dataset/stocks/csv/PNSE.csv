@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-16,PNSE,Pudjiadi & Sons Tbk.,--UO2130000000E512------------,720.0,0.0,715.0,670.0,700.0,-20.0,3200,2212500,13,349.8,700,87000,680,200,797813496,797813496,62947485,0,0,0,0,0
 2026-03-13,PNSE,Pudjiadi & Sons Tbk.,--UO2130000000E512------------,720.0,0.0,720.0,715.0,720.0,0.0,900,645500,4,359.8,715,1400,695,100,797813496,797813496,62947485,0,0,0,0,0
 2026-03-12,PNSE,Pudjiadi & Sons Tbk.,--UO2130000000E512------------,720.0,0.0,720.0,670.0,720.0,0.0,2700,1897000,22,359.8,715,1500,690,100,797813496,797813496,62947485,0,0,0,0,0
 2026-03-11,PNSE,Pudjiadi & Sons Tbk.,--UO2130000000E512------------,710.0,725.0,725.0,685.0,720.0,10.0,1100,781500,11,359.8,715,100,700,100,797813496,797813496,62947485,0,0,0,0,0
