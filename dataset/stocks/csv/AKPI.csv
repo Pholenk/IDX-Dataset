@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-17,AKPI,Argha Karya Prima Industry Tbk.,--UO2130000000B113------------,496.0,530.0,530.0,500.0,500.0,4.0,8500,4320000,18,66.0,505,4300,500,2300,612248000,612248000,103776036,1600,0,0,0,0
 2026-03-16,AKPI,Argha Karya Prima Industry Tbk.,--UO2130000000B113------------,490.0,490.0,498.0,480.0,496.0,6.0,9500,4614800,20,65.4,498,9900,494,100,612248000,612248000,103776036,0,0,0,0,0
 2026-03-13,AKPI,Argha Karya Prima Industry Tbk.,--UO2130000000B113------------,496.0,0.0,496.0,490.0,490.0,-6.0,35700,17632200,38,64.6,494,26100,490,2100,612248000,612248000,103776036,0,0,0,0,0
 2026-03-12,AKPI,Argha Karya Prima Industry Tbk.,--UO2130000000B113------------,500.0,500.0,500.0,496.0,496.0,-4.0,31600,15731200,19,65.4,500,45900,496,63000,612248000,612248000,103776036,0,0,0,0,0

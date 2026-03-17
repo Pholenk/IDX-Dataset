@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-17,MIRA,Mitra International Resources Tbk.,--U-4130000000K211-----------X,23.0,0.0,24.0,23.0,24.0,1.0,2071300,49080800,100,10.6,24,1732100,23,373300,3961452039,3961452039,3259878883,0,0,0,0,0
 2026-03-16,MIRA,Mitra International Resources Tbk.,--U-4130000000K211-----------X,24.0,0.0,24.0,22.0,23.0,-1.0,3692700,81946400,179,10.1,23,93800,22,781600,3961452039,3961452039,3259878883,102000,200000,0,0,0
 2026-03-13,MIRA,Mitra International Resources Tbk.,--U-4130000000K211-----------X,26.0,0.0,25.0,24.0,24.0,-2.0,4101700,99842000,199,10.6,25,2225800,24,168000,3961452039,3961452039,3259878883,0,0,0,0,0
 2026-03-12,MIRA,Mitra International Resources Tbk.,--U-4130000000K211-----------X,27.0,0.0,27.0,26.0,26.0,-1.0,4017000,104572400,149,11.5,27,5290000,26,146200,3961452039,3961452039,3259878883,0,0,0,0,0

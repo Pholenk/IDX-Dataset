@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-17,RUNS,Global Sukses Solusi Tbk.,--U-3000000000I131------------,110.0,0.0,120.0,99.0,111.0,1.0,31822400,3316644300,3119,43.7,111,52600,108,800,983557875,983557875,0,0,0,0,0,0
 2026-03-16,RUNS,Global Sukses Solusi Tbk.,--U-3000000000I131------------,122.0,0.0,134.0,110.0,110.0,-12.0,33975300,4221162000,1328,43.3,110,7980700,0,0,983557875,983557875,0,0,0,0,0,0
 2026-03-13,RUNS,Global Sukses Solusi Tbk.,--U-3000000000I131------------,111.0,0.0,122.0,115.0,122.0,11.0,4474200,545734800,309,48.0,0,0,122,6450400,983557875,983557875,0,0,0,0,0,0
 2026-03-12,RUNS,Global Sukses Solusi Tbk.,--U-3000000000I131------------,101.0,0.0,111.0,111.0,111.0,10.0,5183700,575390700,277,43.7,0,0,111,5233400,983557875,983557875,0,0,0,0,0,0
