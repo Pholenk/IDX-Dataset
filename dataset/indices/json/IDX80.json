@@ -1,5 +1,18 @@
 [
   {
+    "Date": "2026-03-24",
+    "Previous": 108.708,
+    "Highest": 111.087,
+    "Lowest": 109.318,
+    "Close": 110.128,
+    "Constituent": 80,
+    "Change": 1.42,
+    "Volume": 16305064657,
+    "Value": 17993107915823,
+    "Frequency": 710015,
+    "Capitalization": 6987659610347450
+  },
+  {
     "Date": "2026-03-17",
     "Previous": 108.708,
     "Highest": 111.087,
