@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-25,ASMI,Asuransi Maximus Graha Persada Tbk.,--U-4100000000G412-----------X,19.0,0.0,19.0,18.0,19.0,0.0,38959800,728949100,382,35.2,19,394200,18,11046000,8958380460,8958380460,5287236147,0,0,0,0,0
 2026-03-17,ASMI,Asuransi Maximus Graha Persada Tbk.,--U-4100000000G412-----------X,18.0,0.0,19.0,19.0,19.0,1.0,18582200,353061800,277,35.2,19,1646800,18,2541800,8958380460,8958380460,5287236147,0,0,0,0,0
 2026-03-16,ASMI,Asuransi Maximus Graha Persada Tbk.,--U-4100000000G412-----------X,17.0,0.0,18.0,17.0,18.0,1.0,8620400,153562300,196,33.3,0,0,18,1043400,8958380460,8958380460,5287236147,0,10000,0,0,0
 2026-03-13,ASMI,Asuransi Maximus Graha Persada Tbk.,--U-4100000000G412-----------X,18.0,0.0,19.0,17.0,17.0,-1.0,50004200,857938700,379,31.5,18,312700,17,2520900,8958380460,8958380460,5287236147,0,10000,0,0,0
