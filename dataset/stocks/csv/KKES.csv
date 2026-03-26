@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-26,KKES,Kusuma Kemindo Sentosa Tbk.,--U-4130000000B111-----------X,28.0,0.0,30.0,30.0,30.0,2.0,709600,21288000,54,28.6,30,341600,29,19200,1500000000,1500000000,469950000,0,0,0,0,0
 2026-03-25,KKES,Kusuma Kemindo Sentosa Tbk.,--U-4130000000B111-----------X,28.0,0.0,30.0,28.0,28.0,0.0,2223700,63009500,90,26.7,29,345100,28,357700,1500000000,1500000000,469950000,0,0,0,0,0
 2026-03-17,KKES,Kusuma Kemindo Sentosa Tbk.,--U-4130000000B111-----------X,27.0,0.0,28.0,27.0,28.0,1.0,1810800,49252200,134,26.7,29,100000,28,10700,1500000000,1500000000,469950000,0,0,0,0,0
 2026-03-16,KKES,Kusuma Kemindo Sentosa Tbk.,--U-4130000000B111-----------X,29.0,0.0,27.0,27.0,27.0,-2.0,2501600,67543200,112,25.7,27,2033400,0,0,1500000000,1500000000,469950000,0,0,0,0,0

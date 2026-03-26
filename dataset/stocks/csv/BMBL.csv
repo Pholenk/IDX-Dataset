@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-26,BMBL,Lavender Bina Cendikia Tbk.,--U-3000000000E521------------,32.0,0.0,32.0,30.0,31.0,-1.0,4806000,148945900,441,16.5,32,1701200,31,43200,1030080995,1030080995,0,0,0,0,0,0
 2026-03-25,BMBL,Lavender Bina Cendikia Tbk.,--U-3000000000E521------------,31.0,0.0,33.0,29.0,32.0,1.0,8585500,266322000,2080,17.0,32,1607900,30,4658400,1030080995,1030080995,0,0,0,0,0,0
 2026-03-17,BMBL,Lavender Bina Cendikia Tbk.,--U-3000000000E521------------,31.0,0.0,31.0,29.0,31.0,0.0,3016200,90905000,226,16.5,31,1206600,29,2562400,1030080995,1030080995,0,0,0,0,0,0
 2026-03-16,BMBL,Lavender Bina Cendikia Tbk.,--U-3000000000E521------------,30.0,0.0,31.0,28.0,31.0,1.0,7540200,222036100,416,16.5,31,1326500,30,400,1030080995,1030080995,0,0,0,0,0,0

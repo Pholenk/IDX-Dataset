@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-26,RELF,Graha Mitra Asia Tbk.,--U-3000000000H111------------,37.0,0.0,37.0,35.0,36.0,-1.0,2065000,73600700,263,40.0,36,61800,35,796100,5727832195,5727832195,0,0,0,0,0,0
 2026-03-25,RELF,Graha Mitra Asia Tbk.,--U-3000000000H111------------,35.0,0.0,37.0,34.0,37.0,2.0,1725800,61269900,199,41.1,37,1001700,36,214400,5727832195,5727832195,0,5200,0,0,0,0
 2026-03-17,RELF,Graha Mitra Asia Tbk.,--U-3000000000H111------------,35.0,0.0,35.0,32.0,35.0,0.0,1761600,60546600,167,38.9,36,349800,35,87700,5727832195,5727832195,0,0,0,0,0,0
 2026-03-16,RELF,Graha Mitra Asia Tbk.,--U-3000000000H111------------,37.0,0.0,37.0,34.0,35.0,-2.0,3498600,122477400,274,38.9,35,681900,34,1707000,5727832195,5727832195,0,0,1016500,0,0,0
