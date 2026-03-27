@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-27,KLIN,Klinko Karya Imaji Tbk.,--U-3000000000E743------------,155.0,0.0,160.0,153.0,159.0,4.0,21900,3461500,33,159.0,159,279900,155,200,1307530330,1307530330,0,9800,0,0,0,0
 2026-03-26,KLIN,Klinko Karya Imaji Tbk.,--U-3000000000E743------------,160.0,0.0,160.0,154.0,155.0,-5.0,132100,20772100,13,155.0,159,1700,155,300,1307530330,1307530330,0,0,0,0,0,0
 2026-03-25,KLIN,Klinko Karya Imaji Tbk.,--U-3000000000E743------------,166.0,0.0,168.0,153.0,160.0,-6.0,15300,2492800,54,160.0,163,100,160,1500,1307530330,1307530330,0,3200,0,0,0,0
 2026-03-17,KLIN,Klinko Karya Imaji Tbk.,--U-3000000000E743------------,173.0,0.0,175.0,166.0,166.0,-7.0,4800,807800,37,166.0,166,9000,165,500,1307530330,1307530330,0,1700,0,0,0,0
