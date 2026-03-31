@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-31,BPTR,Batavia Prosperindo Trans Tbk.,--UO2100000000K132------------,79.0,0.0,85.0,76.0,78.0,-1.0,774500,62320600,294,127.8,78,26900,77,1100,3534000000,3534000000,337497000,0,136300,0,0,0
 2026-03-27,BPTR,Batavia Prosperindo Trans Tbk.,--UO2100000000K132------------,80.0,0.0,80.0,77.0,80.0,0.0,3600,284900,15,131.1,80,7100,78,11000,3534000000,3534000000,337497000,0,0,0,0,0
 2026-03-26,BPTR,Batavia Prosperindo Trans Tbk.,--UO2100000000K132------------,79.0,0.0,82.0,77.0,80.0,1.0,222100,17880200,128,131.1,82,16500,79,900,3534000000,3534000000,337497000,0,0,0,0,0
 2026-03-25,BPTR,Batavia Prosperindo Trans Tbk.,--UO2100000000K132------------,78.0,78.0,80.0,78.0,79.0,1.0,89400,7064600,155,129.4,79,1500,78,6100,3534000000,3534000000,337497000,0,0,0,0,0

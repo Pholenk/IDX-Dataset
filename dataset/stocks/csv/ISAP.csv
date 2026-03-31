@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-31,ISAP,Isra Presisi Indonesia Tbk.,--U-3000000000E111------------,30.0,0.0,30.0,29.0,29.0,-1.0,12747600,370594300,455,30.2,29,400,28,11433300,4020340435,4020340435,0,0,0,0,0,0
 2026-03-27,ISAP,Isra Presisi Indonesia Tbk.,--U-3000000000E111------------,30.0,0.0,30.0,29.0,30.0,0.0,22083200,645182400,337,31.3,30,7568200,29,7553400,4020340155,4020340155,0,0,0,0,0,0
 2026-03-26,ISAP,Isra Presisi Indonesia Tbk.,--U-3000000000E111------------,30.0,0.0,33.0,29.0,30.0,0.0,53029200,1625206400,787,31.3,30,1509000,29,9173800,4020340105,4020340105,0,336000,0,0,0,0
 2026-03-25,ISAP,Isra Presisi Indonesia Tbk.,--U-3000000000E111------------,29.0,0.0,31.0,29.0,30.0,1.0,14502800,429532100,661,31.3,30,6553200,29,10567800,4020340105,4020340105,0,0,0,0,0,0

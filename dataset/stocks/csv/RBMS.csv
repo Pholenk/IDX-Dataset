@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-31,RBMS,Ristia Bintang Mahkotasejati Tbk.,--U-4130000000H111-----------X,48.0,0.0,52.0,52.0,52.0,4.0,4750700,247036400,115,16.6,0,0,52,64626400,2656212826,2656212826,1243638845,0,0,210300,12498000,2
 2026-03-27,RBMS,Ristia Bintang Mahkotasejati Tbk.,--U-4130000000H111-----------X,45.0,0.0,44.0,44.0,44.0,-1.0,269600,11862400,48,14.1,44,44900,43,69600,2656212826,2656212826,1243638845,0,0,0,0,0
 2026-03-26,RBMS,Ristia Bintang Mahkotasejati Tbk.,--U-4130000000H111-----------X,44.0,0.0,48.0,45.0,45.0,1.0,484500,22968000,41,14.4,46,443100,45,23900,2656212826,2656212826,1243638845,0,0,0,0,0
 2026-03-25,RBMS,Ristia Bintang Mahkotasejati Tbk.,--U-4130000000H111-----------X,45.0,0.0,45.0,44.0,44.0,-1.0,851700,38291500,58,14.1,45,281900,43,20600,2656212826,2656212826,1243638845,0,0,0,0,0

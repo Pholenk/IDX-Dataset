@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-03-31,ASBI,Asuransi Bintang Tbk.,--UO2100000000G412------------,406.0,0.0,408.0,404.0,406.0,0.0,9000,3663800,14,308.2,406,3900,404,600,348386472,348386472,50516038,0,0,0,0,0
 2026-03-27,ASBI,Asuransi Bintang Tbk.,--UO2100000000G412------------,418.0,0.0,424.0,400.0,404.0,-14.0,23100,9315600,45,306.7,412,100,404,22700,348386472,348386472,50516038,0,0,0,0,0
 2026-03-26,ASBI,Asuransi Bintang Tbk.,--UO2100000000G412------------,424.0,0.0,424.0,406.0,418.0,-6.0,1200,501400,8,317.3,418,3200,410,100,348386472,348386472,50516038,0,0,0,0,0
 2026-03-25,ASBI,Asuransi Bintang Tbk.,--UO2100000000G412------------,418.0,0.0,426.0,402.0,424.0,6.0,18200,7507400,40,321.9,424,4300,406,400,348386472,348386472,50516038,0,0,0,0,0
