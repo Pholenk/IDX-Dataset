@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-01,DYAN,Dyandra Media International Tbk.,--UO2130000000C224------------,79.0,80.0,80.0,79.0,79.0,0.0,666700,52826000,75,22.6,80,491700,79,153500,4272964279,4272964279,927660545,400,0,0,0,0
 2026-03-31,DYAN,Dyandra Media International Tbk.,--UO2130000000C224------------,80.0,0.0,80.0,79.0,79.0,-1.0,135900,10800500,62,22.6,80,127900,79,100300,4272964279,4272964279,1149427391,200,0,0,0,0
 2026-03-27,DYAN,Dyandra Media International Tbk.,--UO2130000000C224------------,79.0,79.0,87.0,78.0,79.0,0.0,1772000,143663900,289,22.6,81,2100,79,171900,4272964279,4272964279,1149427391,438200,0,0,0,0
 2026-03-26,DYAN,Dyandra Media International Tbk.,--UO2130000000C224------------,81.0,81.0,82.0,79.0,79.0,-2.0,499700,40256100,73,22.6,80,20100,79,159000,4272964279,4272964279,1149427391,400,0,0,0,0

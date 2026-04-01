@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-01,RCCC,Utama Radar Cahaya Tbk.,--U-3000000000K211------------,108.0,0.0,112.0,98.0,106.0,-2.0,13468200,1421206500,1602,82.3,106,45100,105,14200,787500000,787500000,0,0,0,0,0,0
 2026-03-31,RCCC,Utama Radar Cahaya Tbk.,--U-3000000000K211------------,112.0,0.0,119.0,105.0,108.0,-4.0,16183500,1806287400,684,83.9,108,93000,107,100,787500000,787500000,0,0,0,0,0,0
 2026-03-27,RCCC,Utama Radar Cahaya Tbk.,--U-3000000000K211------------,101.0,0.0,107.0,96.0,102.0,1.0,7819700,801833200,550,79.2,105,117900,102,400,787500000,787500000,0,0,400000,0,0,0
 2026-03-26,RCCC,Utama Radar Cahaya Tbk.,--U-3000000000K211------------,105.0,0.0,107.0,99.0,101.0,-4.0,10549700,1080382800,592,78.4,104,200,100,91100,787500000,787500000,0,0,0,0,0,0

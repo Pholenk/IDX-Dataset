@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-01,HRME,Menteng Heritage Realty Tbk.,--U-4130000000E512-----------X,46.0,0.0,46.0,45.0,46.0,0.0,716600,32829000,34,43.8,47,210000,46,45300,5958750000,5958750000,870573375,0,0,0,0,0
 2026-03-31,HRME,Menteng Heritage Realty Tbk.,--U-4130000000E512-----------X,47.0,0.0,47.0,46.0,46.0,-1.0,729300,33622400,44,43.8,47,2111400,46,100,5958750000,5958750000,870573375,0,0,0,0,0
 2026-03-27,HRME,Menteng Heritage Realty Tbk.,--U-4130000000E512-----------X,48.0,0.0,48.0,47.0,47.0,-1.0,535700,25542300,45,44.8,47,260300,46,10700,5958750000,5958750000,870573375,0,0,0,0,0
 2026-03-26,HRME,Menteng Heritage Realty Tbk.,--U-4130000000E512-----------X,46.0,0.0,49.0,47.0,48.0,2.0,2565100,123910700,80,45.7,48,490500,47,9800,5958750000,5958750000,870573375,0,0,0,0,0
