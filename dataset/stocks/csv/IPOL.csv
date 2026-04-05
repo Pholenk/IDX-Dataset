@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-02,IPOL,Indopoly Swakarsa Industry Tbk.,--UO2130000000B131------------,119.0,120.0,121.0,115.0,118.0,-1.0,303800,35649600,106,56.2,119,20000,118,1200,6443379509,6443379509,867923220,0,0,0,0,0
 2026-04-01,IPOL,Indopoly Swakarsa Industry Tbk.,--UO2130000000B131------------,119.0,121.0,124.0,119.0,119.0,0.0,853800,103863700,208,56.7,119,15300,118,3000,6443379509,6443379509,867923220,0,0,0,0,0
 2026-03-31,IPOL,Indopoly Swakarsa Industry Tbk.,--UO2130000000B131------------,117.0,117.0,119.0,116.0,119.0,2.0,569700,66788900,60,56.7,119,6500,117,19000,6443379509,6443379509,867923220,0,0,0,0,0
 2026-03-27,IPOL,Indopoly Swakarsa Industry Tbk.,--UO2130000000B131------------,118.0,118.0,118.0,116.0,117.0,-1.0,16900,1971500,34,55.7,118,5500,115,64300,6443379509,6443379509,867923220,0,0,0,0,0

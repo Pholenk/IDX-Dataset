@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-02,JSPT,Jakarta Setiabudi Internasional Tbk.,--UO2135000000E512------------,1405.0,0.0,1425.0,1360.0,1405.0,0.0,9800,13769000,21,302.6,1425,200,1370,500,2318736000,2318736000,194310077,100,0,0,0,0
 2026-04-01,JSPT,Jakarta Setiabudi Internasional Tbk.,--UO2135000000E512------------,1440.0,0.0,1485.0,1400.0,1405.0,-35.0,14500,20763000,43,302.6,1415,100,1400,200,2318736000,2318736000,194310077,0,0,0,0,0
 2026-03-31,JSPT,Jakarta Setiabudi Internasional Tbk.,--UO2135000000E512------------,1420.0,0.0,1450.0,1400.0,1440.0,20.0,3100,4406500,16,310.1,1440,300,1410,100,2318736000,2318736000,191295720,0,100,0,0,0
 2026-03-27,JSPT,Jakarta Setiabudi Internasional Tbk.,--UO2135000000E512------------,1445.0,0.0,1495.0,1400.0,1440.0,-5.0,3700,5376000,24,310.1,1445,1000,1440,400,2318736000,2318736000,191295720,0,0,0,0,0

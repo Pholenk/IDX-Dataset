@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-02,IPAC,Era Graharealty Tbk.,--U-3000000000H111------------,152.0,0.0,159.0,142.0,150.0,-2.0,75200,11029400,81,125.0,150,100,148,15600,949868500,949868500,0,0,0,0,0,0
 2026-04-01,IPAC,Era Graharealty Tbk.,--U-3000000000H111------------,153.0,0.0,155.0,147.0,152.0,-1.0,33900,5146200,18,126.7,153,100,152,7100,949868500,949868500,0,0,0,0,0,0
 2026-03-31,IPAC,Era Graharealty Tbk.,--U-3000000000H111------------,156.0,0.0,159.0,152.0,153.0,-3.0,17100,2632500,34,127.5,155,1900,151,500,949868500,949868500,0,0,0,0,0,0
 2026-03-27,IPAC,Era Graharealty Tbk.,--U-3000000000H111------------,161.0,0.0,168.0,148.0,156.0,-5.0,68200,10723800,104,130.0,159,300,156,22200,949868500,949868500,0,3000,3000,0,0,0

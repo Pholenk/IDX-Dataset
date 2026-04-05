@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-02,NANO,Nanotech Indonesia Global Tbk.,--U-3000000000D421---L--------,34.0,0.0,37.0,34.0,35.0,1.0,6376900,225495200,601,35.0,35,40800,34,1639500,4285440269,4285440269,0,0,0,0,0,0
 2026-04-01,NANO,Nanotech Indonesia Global Tbk.,--U-3000000000D421------------,35.0,0.0,36.0,34.0,34.0,-1.0,5145200,180204200,360,34.0,35,401100,34,3551100,4285440269,4285440269,0,0,0,0,0,0
 2026-03-31,NANO,Nanotech Indonesia Global Tbk.,--U-3000000000D421------------,36.0,0.0,37.0,33.0,35.0,-1.0,8147300,283323600,672,35.0,36,212100,35,281300,4285440269,4285440269,0,224300,0,0,0,0
 2026-03-27,NANO,Nanotech Indonesia Global Tbk.,--U-3000000000D421------------,36.0,0.0,39.0,36.0,39.0,3.0,14175700,541658100,870,39.0,0,0,39,956400,4285440269,4285440269,0,12600,1000,0,0,0

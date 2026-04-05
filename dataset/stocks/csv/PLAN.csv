@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-02,PLAN,Planet Properindo Jaya Tbk.,--U-3000000000E512------------,30.0,0.0,33.0,29.0,33.0,3.0,19324300,613326400,1664,29.5,0,0,33,47500,896709596,896709596,0,0,0,0,0,0
 2026-04-01,PLAN,Planet Properindo Jaya Tbk.,--U-3000000000E512------------,30.0,0.0,31.0,27.0,30.0,0.0,12994000,374579400,617,26.8,30,2195700,29,1342400,896709596,896709596,0,0,0,0,0,0
 2026-03-31,PLAN,Planet Properindo Jaya Tbk.,--U-3000000000E512------------,33.0,0.0,33.0,30.0,30.0,-3.0,26406000,826300500,542,26.8,30,1235100,0,0,896709596,896709596,0,0,0,0,0,0
 2026-03-27,PLAN,Planet Properindo Jaya Tbk.,--U-3000000000E512------------,35.0,0.0,35.0,33.0,34.0,-1.0,5371100,180568800,356,30.4,34,1590000,33,851400,896709596,896709596,0,0,3000,0,0,0

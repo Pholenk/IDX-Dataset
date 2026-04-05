@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-02,BAUT,Mitra Angkasa Sejahtera Tbk.,--U-4130000000E743-----------X,38.0,0.0,37.0,36.0,36.0,-2.0,2944000,108083900,144,36.0,37,2092800,36,10500,4800182969,4800182969,1443895037,0,0,0,0,0
 2026-04-01,BAUT,Mitra Angkasa Sejahtera Tbk.,--U-4130000000E743-----------X,35.0,0.0,38.0,37.0,38.0,3.0,9640800,361695600,191,38.0,0,0,38,7349800,4800182969,4800182969,1443895037,0,0,0,0,0
 2026-03-31,BAUT,Mitra Angkasa Sejahtera Tbk.,--U-4130000000E743-----------X,34.0,0.0,35.0,35.0,35.0,1.0,10207100,357248500,153,35.0,36,35800,35,12518500,4800182969,4800182969,1445335092,0,0,0,0,0
 2026-03-27,BAUT,Mitra Angkasa Sejahtera Tbk.,--U-4130000000E743-----------X,34.0,0.0,37.0,37.0,37.0,3.0,7343200,271698400,165,37.0,0,0,37,9218800,4800182969,4800182969,1445335092,0,0,0,0,0
