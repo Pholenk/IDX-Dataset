@@ -1,5 +1,18 @@
 [
   {
+    "Date": "2026-04-06",
+    "Previous": 381.936,
+    "Highest": 383.914,
+    "Lowest": 378.191,
+    "Close": 380.558,
+    "Constituent": 33,
+    "Change": -1.378,
+    "Volume": 803248404,
+    "Value": 2758948382836,
+    "Frequency": 278722,
+    "Capitalization": 3748822583930270
+  },
+  {
     "Date": "2026-04-02",
     "Previous": 385.194,
     "Highest": 386.941,
@@ -89,19 +102,6 @@
     "Value": 11417325295508,
     "Frequency": 556852,
     "Capitalization": 3940884035074450
-  },
-  {
-    "Date": "2026-03-24",
-    "Previous": 382.655,
-    "Highest": 388.075,
-    "Lowest": 384.565,
-    "Close": 387.092,
-    "Constituent": 33,
-    "Change": 4.437,
-    "Volume": 4550946600,
-    "Value": 11307402859640,
-    "Frequency": 305584,
-    "Capitalization": 3826150100323620
   },
   {
     "Date": "2026-03-17",
