@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-07,KONI,Perdana Bangun Pusaka Tbk,--UO2130000000C223------------,1435.0,0.0,0.0,0.0,1435.0,0.0,0,0,0,302.1,1645,200,1440,100,312000000,312000000,65832000,0,0,0,0,0
 2026-04-06,KONI,Perdana Bangun Pusaka Tbk,--UO2130000000C223------------,1435.0,0.0,1435.0,1435.0,1435.0,0.0,500,717500,5,302.1,1625,200,1435,100,312000000,312000000,65832000,0,0,0,0,0
 2026-04-02,KONI,Perdana Bangun Pusaka Tbk,--UO2130000000C223------------,1435.0,0.0,1435.0,1425.0,1435.0,0.0,300,429500,3,302.1,1560,200,1435,100,312000000,312000000,65832000,0,0,0,0,0
 2026-04-01,KONI,Perdana Bangun Pusaka Tbk,--UO2130000000C223------------,1445.0,0.0,1450.0,1435.0,1435.0,-10.0,6200,8913500,28,302.1,1535,100,1425,400,312000000,312000000,65832000,0,0,0,0,0

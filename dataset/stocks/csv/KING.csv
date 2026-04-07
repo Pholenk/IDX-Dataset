@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-07,KING,Hoffmen Cleanindo Tbk.,--U-3000000000C231---L--------,256.0,0.0,258.0,252.0,256.0,0.0,217200,55079000,33,196.9,258,49600,256,12800,2602852170,2602852170,0,0,0,0,0,0
 2026-04-06,KING,Hoffmen Cleanindo Tbk.,--U-3000000000C231---L--------,254.0,0.0,262.0,254.0,256.0,2.0,199800,51776000,43,196.9,258,19900,256,26900,2602852170,2602852170,0,60700,0,0,0,0
 2026-04-02,KING,Hoffmen Cleanindo Tbk.,--U-3000000000C231---L--------,256.0,0.0,260.0,250.0,254.0,-2.0,265900,67142000,29,195.4,260,203300,254,19900,2602852170,2602852170,0,0,0,0,0,0
 2026-04-01,KING,Hoffmen Cleanindo Tbk.,--U-3000000000C231------------,254.0,0.0,258.0,254.0,256.0,2.0,10400,2661600,11,196.9,256,7400,254,15400,2602852170,2602852170,0,0,0,0,0,0

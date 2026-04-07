@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-07,BBMD,Bank Mestika Dharma Tbk.,--UO2105000000G111------------,1980.0,0.0,1980.0,1980.0,1980.0,0.0,100,198000,1,143.5,1980,9600,1905,100,4049189100,4049189100,363617181,0,0,0,0,0
 2026-04-06,BBMD,Bank Mestika Dharma Tbk.,--UO2105000000G111------------,1980.0,0.0,0.0,0.0,1980.0,0.0,0,0,0,143.5,1980,8100,1910,5000,4049189100,4049189100,363617181,0,0,0,0,0
 2026-04-02,BBMD,Bank Mestika Dharma Tbk.,--UO2105000000G111------------,1980.0,0.0,0.0,0.0,1980.0,0.0,0,0,0,143.5,1970,100,1910,100,4049189100,4049189100,363617181,0,0,0,0,0
 2026-04-01,BBMD,Bank Mestika Dharma Tbk.,--UO2105000000G111------------,1980.0,0.0,0.0,0.0,1980.0,0.0,0,0,0,143.5,1975,100,1905,100,4049189100,4049189100,363617181,0,0,0,0,0
