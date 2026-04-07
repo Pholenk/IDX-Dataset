@@ -13046,5 +13046,33 @@
     "NonRegularVolume": 0,
     "NonRegularValue": 0,
     "NonRegularFrequency": 0
+  },
+  {
+    "Date": "2024-04-16",
+    "Ticker": "MHKI",
+    "Name": "Multi Hanna Kreasindo Tbk.",
+    "Remarks": "--U-2130000000C222------------",
+    "Previous": 160.0,
+    "Open": 0.0,
+    "High": 216.0,
+    "Low": 136.0,
+    "Close": 216.0,
+    "Change": 56.0,
+    "Volume": 269193800,
+    "Value": 47974295700,
+    "Frequency": 30687,
+    "IndexIndividual": 135.0,
+    "Offer": 0,
+    "OfferVolume": 0,
+    "Bid": 216,
+    "BidVolume": 99509200,
+    "ListedShares": 3750000000,
+    "TradebleShares": 750000000,
+    "WeightForIndex": 750000000,
+    "ForeignSell": 17745700,
+    "ForeignBuy": 779400,
+    "NonRegularVolume": 1900,
+    "NonRegularValue": 323000,
+    "NonRegularFrequency": 1
   }
 ]
