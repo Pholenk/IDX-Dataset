@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-08,MASB,Bank Multiarta Sentosa Tbk.,--UO2105000000G111------------,3200.0,0.0,3390.0,3300.0,3350.0,150.0,1200,4048000,7,99.7,3370,100,3230,100,1387737233,1387737233,126145314,100,0,0,0,0
 2026-04-07,MASB,Bank Multiarta Sentosa Tbk.,--UO2105000000G111------------,3170.0,0.0,3390.0,3170.0,3200.0,30.0,2600,8627000,22,95.2,3380,200,3200,100,1387737233,1387737233,126145314,0,100,0,0,0
 2026-04-06,MASB,Bank Multiarta Sentosa Tbk.,--UO2105000000G111------------,3180.0,0.0,3170.0,3170.0,3170.0,-10.0,100,317000,1,94.3,3330,200,3170,500,1387737233,1387737233,126145314,0,0,0,0,0
 2026-04-02,MASB,Bank Multiarta Sentosa Tbk.,--UO2105000000G111------------,3180.0,0.0,0.0,0.0,3180.0,0.0,0,0,0,94.6,3360,200,3170,1100,1387737233,1387737233,126145314,0,0,0,0,0

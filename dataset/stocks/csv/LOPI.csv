@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-08,LOPI,Logisticsplus International Tbk.,--U-3000000000K211------------,108.0,0.0,113.0,106.0,111.0,3.0,822000,88056500,93,111.0,111,170800,109,1200,1100011289,1100011289,0,0,0,0,0,0
 2026-04-07,LOPI,Logisticsplus International Tbk.,--U-3000000000K211------------,112.0,0.0,121.0,106.0,108.0,-4.0,335900,36298500,131,108.0,108,2400,106,1000,1100011289,1100011289,0,15100,0,0,0,0
 2026-04-06,LOPI,Logisticsplus International Tbk.,--U-3000000000K211------------,102.0,0.0,112.0,94.0,112.0,10.0,2275700,242314000,292,112.0,0,0,112,28500,1100011289,1100011289,0,422400,0,0,0,0
 2026-04-02,LOPI,Logisticsplus International Tbk.,--U-3000000000K211------------,106.0,0.0,106.0,102.0,102.0,-4.0,504100,52266100,77,102.0,105,26000,102,5000,1100011289,1100011289,0,112600,0,0,0,0

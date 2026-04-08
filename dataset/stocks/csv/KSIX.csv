@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-08,KSIX,Kentanix Supra International Tbk.,--MO2130000000H111------------,330.0,330.0,334.0,322.0,334.0,4.0,44500,14588800,29,73.9,334,7800,326,100,2137831800,2137831800,320674770,0,0,0,0,0
 2026-04-07,KSIX,Kentanix Supra International Tbk.,--MO2130000000H111------------,340.0,0.0,340.0,322.0,330.0,-10.0,48200,15597800,18,73.0,330,100,324,5000,2137831800,2137831800,320674770,0,0,0,0,0
 2026-04-06,KSIX,Kentanix Supra International Tbk.,--MO2130000000H111------------,340.0,326.0,340.0,326.0,340.0,0.0,32600,10763000,12,75.2,340,13700,332,500,2137831800,2137831800,320674770,0,0,0,0,0
 2026-04-02,KSIX,Kentanix Supra International Tbk.,--MO2130000000H111------------,338.0,0.0,350.0,322.0,340.0,2.0,64400,20846800,22,75.2,340,35300,324,300,2137831800,2137831800,320674770,0,18500,0,0,0
