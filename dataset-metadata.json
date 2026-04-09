@@ -9,7 +9,7 @@
         "licenses": [{"name": "ODbL-1.0"}],
         "resources": [
             {
-                "path": "./dataset/preview/indices/csv/ABX.csv",
+                "path": "dataset/preview/indices/csv/ABX.csv",
                 "description": "Index ABX in csv format",
                 "schema": {
                     "fields": [
