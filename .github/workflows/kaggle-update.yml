@@ -32,6 +32,9 @@ jobs:
         run: base64 -d <<< "${{ secrets.DATASET_METADATA }}" > dataset-metadata.json
 
       - name: Upload dataset
+        env:
+          KAGGLE_USERNAME:  pholenk
+          KAGGLE_KEY:       ${{ secrets.KAGGLE_KEY }}
         run: |
           kaggle datasets version \
             -m "Update: ${{ github.event.head_commit.message }}" \
