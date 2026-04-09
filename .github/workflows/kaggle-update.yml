@@ -34,7 +34,7 @@ jobs:
 
       - name: Unzip dataset
         run: |
-          unzip eod-data-indonesia-stock-exchange.zip
+          unzip eod-data-indonesia-stock-exchange.zip eod-data-indonesia-stock-exchange
 
       - name: Copy updated dataset
         run: |
