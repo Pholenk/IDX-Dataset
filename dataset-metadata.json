@@ -135,10 +135,6 @@
                 }
             },
             {
-                "path": "./dataset/preview/stocks/csv",
-                "description": "The directory where all CSV formatted files related to the stock code are located"
-            },
-            {
                 "path": "./dataset/preview/stocks/json",
                 "description": "The directory where all JSON formatted files related to the stock code are located"
             },
