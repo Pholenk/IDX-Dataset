@@ -50,6 +50,7 @@ jobs:
           rm Readme.md
 
       - name: Renew dataset-metadata.json
+        working-directory: ./eod-data-indonesia-stock-exchange
         run: |
           base64 -d <<< "${{ secrets.DATASET_METADATA }}" > dataset-metadata.json
 
