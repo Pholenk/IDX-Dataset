@@ -135,7 +135,7 @@
                 }
             },
             {
-                "path": "./dataset/preview/stocks/csv/AADI.csv",
+                "path": "dataset/preview/stocks/csv/AADI.csv",
                 "description": "Index AADI in csv format",
                 "schema": {
                     "fields": [
