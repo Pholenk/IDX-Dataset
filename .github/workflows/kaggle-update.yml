@@ -58,8 +58,8 @@ jobs:
           KAGGLE_USERNAME:        pholenk
           KAGGLE_KEY:             ${{ secrets.KAGGLE_KEY }}
           KAGGLE_API_TOKEN:       ${{ secrets.KAGGLE_KEY }}
+        working-directory: ./eod-data-indonesia-stock-exchange
         run: |
-          cd eod-data-indonesia-stock-exchange
           kaggle datasets version \
             -m "Update: ${{ github.event.head_commit.message }}" \
             --dir-mode zip
