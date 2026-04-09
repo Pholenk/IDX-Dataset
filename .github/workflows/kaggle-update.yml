@@ -28,6 +28,9 @@ jobs:
           echo "{\"username\":\"pholenk\",\"key\":\"${{ secrets.KAGGLE_KEY }}\"}" > ~/.kaggle/kaggle.json
           chmod 600 ~/.kaggle/kaggle.json
 
+      - name: Set dataset-metadata.json
+        run: base64 -d <<< "${{ secrets.DATASET_METADATA }}" > dataset-metadata.json
+
       - name: Upload dataset
         run: |
           kaggle datasets version \
