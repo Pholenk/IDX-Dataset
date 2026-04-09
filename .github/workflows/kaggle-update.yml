@@ -22,12 +22,6 @@ jobs:
       - name: Masking credentials
         run: echo "::add-mask::${{ secrets.KAGGLE_KEY }}"
 
-      - name: Setup Kaggle credentials
-        run: |
-          mkdir -p ~/.kaggle
-          echo "{\"username\":\"pholenk\",\"key\":\"${{ secrets.KAGGLE_KEY }}\"}" > ~/.kaggle/kaggle.json
-          chmod 600 ~/.kaggle/kaggle.json
-
       - name: Set dataset-metadata.json
         run: base64 -d <<< "${{ secrets.DATASET_METADATA }}" > dataset-metadata.json
 
