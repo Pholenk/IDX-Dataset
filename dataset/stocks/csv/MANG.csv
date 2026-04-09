@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-09,MANG,Manggung Polahraya Tbk.,--U-3000000000J211------------,37.0,0.0,37.0,36.0,37.0,0.0,5183700,189260100,351,37.0,37,3066200,36,3745600,3812570602,1732570602,0,0,300,0,0,0
 2026-04-08,MANG,Manggung Polahraya Tbk.,--U-3000000000J211------------,37.0,0.0,37.0,35.0,37.0,0.0,14269900,518097800,555,37.0,37,2035000,36,1640900,3812570602,1732570602,0,0,901000,0,0,0
 2026-04-07,MANG,Manggung Polahraya Tbk.,--U-3000000000J211------------,37.0,0.0,39.0,35.0,37.0,0.0,17861100,658907000,637,37.0,37,1218100,36,2500500,3812570594,1732570594,0,0,2200,0,0,0
 2026-04-06,MANG,Manggung Polahraya Tbk.,--U-3000000000J211------------,41.0,0.0,41.0,37.0,37.0,-4.0,36657900,1367752800,1024,37.0,37,2488600,0,0,3812570594,1732570594,0,0,270500,0,0,0

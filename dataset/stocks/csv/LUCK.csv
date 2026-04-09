@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-09,LUCK,Sentral Mitra Informatika Tbk.,--UO2130000000I221------------,97.0,97.0,98.0,96.0,97.0,0.0,1402300,135983300,87,33.9,97,10100,96,335800,715749640,354601900,190532554,0,0,0,0,0
 2026-04-08,LUCK,Sentral Mitra Informatika Tbk.,--UO2130000000I221------------,96.0,97.0,100.0,95.0,97.0,1.0,1322900,128398400,283,33.9,97,200,96,5000,715749640,354601900,190532554,100,0,0,0,0
 2026-04-07,LUCK,Sentral Mitra Informatika Tbk.,--UO2130000000I221------------,95.0,96.0,97.0,93.0,96.0,1.0,421000,39932900,155,33.6,96,33800,94,54900,715749640,354601900,190532554,100,0,0,0,0
 2026-04-06,LUCK,Sentral Mitra Informatika Tbk.,--UO2130000000I221---L--------,98.0,98.0,98.0,88.0,95.0,-3.0,3391300,311914600,491,33.2,96,300,93,16300,715749640,354601900,190532554,100,0,0,0,0
