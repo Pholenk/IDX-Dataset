@@ -16,14 +16,41 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Install system dependencies
+        run: |
+          sudo apt update -q
+          sudo apt install -y --no-install-recommends \
+          unzip
+
       - name: Install Kaggle CLI
         run: pip install kaggle
 
       - name: Masking credentials
         run: echo "::add-mask::${{ secrets.KAGGLE_KEY }}"
 
-      - name: Set dataset-metadata.json
-        run: base64 -d <<< "${{ secrets.DATASET_METADATA }}" > dataset-metadata.json
+      - name: Download dataset
+        run: |
+          kaggle datasets download pholenk/eod-data-indonesia-stock-exchange
+
+      - name: Unzip dataset
+        run: |
+          unzip eod-data-indonesia-stock-exchange.zip
+
+      - name: Copy updated dataset
+        run: |
+          cp -r dataset/ eod-data-indonesia-stock-exchange/dataset/
+          cp metadata.json eod-data-indonesia-stock-exchange/metadata.json
+
+      - name: Remove unnecessary directory if any
+        run: |
+          rm -r eod-data-indonesia-stock-exchange/.github/
+          rm -r eod-data-indonesia-stock-exchange/licenses/
+          rm .kaggleignore
+          rm Readme.md
+
+      - name: Renew dataset-metadata.json
+        run: |
+          base64 -d <<< "${{ secrets.DATASET_METADATA }}" > dataset-metadata.json
 
       - name: Upload dataset
         env:
@@ -32,5 +59,6 @@ jobs:
           KAGGLE_API_TOKEN:       ${{ secrets.KAGGLE_KEY }}
         run: |
           kaggle datasets version \
+            -p eod-data-indonesia-stock-exchange \
             -m "Update: ${{ github.event.head_commit.message }}" \
             --dir-mode zip
