@@ -1,7 +1,7 @@
 {
     "info": {
         "slug": "eod-data-indonesia-stock-exchange",
-        "ownerUser": "pholenk",
+        "username": "pholenk",
         "title": "EOD Data Indonesia Stock Exchange",
         "subtitle": "Daily update end of day CSV and JSON data",
         "description": "It all started with difficulties obtaining data from yfinance for some data, such as sectoral indices and some lesser-known stock codes.\nThe original data, available for download from idx.co.id, is in standard XLSX format, which makes it somewhat difficult to process.\n\nGenerally, the data structure includes the previous price, highest price, lowest price, closing price, and trading volume. All are in a daily timeframe. Note that the data structure for indices excludes the opening price because the original data does not include it, while each stock code does.\n\nContent is available from January 1, 2020, to March 9, 2026 (as indicated by last_updated in the metadata.json file).",
