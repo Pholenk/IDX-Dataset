@@ -34,6 +34,5 @@ jobs:
       - name: Upload dataset
         run: |
           kaggle datasets version \
-            -p . \
             -m "Update: ${{ github.event.head_commit.message }}" \
             --dir-mode zip
