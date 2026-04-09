@@ -9,10 +9,6 @@
         "licenses": [{"name": "ODbL-1.0"}],
         "resources": [
             {
-                "path": "./dataset/preview/indices/csv",
-                "description": "The directory where all CSV formatted files related to the index are located"
-            },
-            {
                 "path": "./dataset/preview/indices/json",
                 "description": "The directory where all JSON formatted files related to the index are located"
             },
