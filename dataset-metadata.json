@@ -72,7 +72,7 @@
                 }
             },
             {
-                "path": "./dataset/preview/indices/json/ABX.json",
+                "path": "dataset/preview/indices/json/ABX.json",
                 "description": "Index ABX in json format",
                 "schema": {
                     "fields": [
