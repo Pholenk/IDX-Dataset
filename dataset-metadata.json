@@ -1,6 +1,6 @@
 {
     "info": {
-        "datasetSlug": "eod-data-indonesia-stock-exchange",
+        "slug": "eod-data-indonesia-stock-exchange",
         "ownerUser": "pholenk",
         "title": "EOD Data Indonesia Stock Exchange",
         "subtitle": "Daily update end of day CSV and JSON data",
