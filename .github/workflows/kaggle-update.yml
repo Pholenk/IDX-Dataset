@@ -33,8 +33,9 @@ jobs:
 
       - name: Upload dataset
         env:
-          KAGGLE_USERNAME:  pholenk
-          KAGGLE_KEY:       ${{ secrets.KAGGLE_KEY }}
+          KAGGLE_USERNAME:        pholenk
+          KAGGLE_KEY:             ${{ secrets.KAGGLE_KEY }}
+          KAGGLE_API_TOKEN:       ${{ secrets.KAGGLE_KEY }}
         run: |
           kaggle datasets version \
             -m "Update: ${{ github.event.head_commit.message }}" \
