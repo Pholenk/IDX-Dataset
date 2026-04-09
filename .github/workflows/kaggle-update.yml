@@ -19,6 +19,9 @@ jobs:
       - name: Install Kaggle CLI
         run: pip install kaggle
 
+      - name: Masking credentials
+        run: echo "::add-mask::${{ secrets.KAGGLE_KEY }}"
+
       - name: Setup Kaggle credentials
         run: |
           mkdir -p ~/.kaggle
