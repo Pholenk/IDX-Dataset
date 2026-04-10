@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-10,PGJO,Bahtera Bumi Raya Tbk.,--U-4000000000I111-E---------X,590.0,0.0,640.0,590.0,640.0,50.0,57200,34635500,36,1108.8,640,11600,620,2800,795859095,795859095,0,0,0,0,0,0
 2026-04-09,PGJO,Bahtera Bumi Raya Tbk.,--U-4000000000I111-E---------X,560.0,0.0,610.0,590.0,590.0,30.0,102800,62012000,55,1022.1,590,11600,585,100,795859095,795859095,0,0,0,0,0,0
 2026-04-08,PGJO,Bahtera Bumi Raya Tbk.,--U-4000000000I111-E---------X,570.0,0.0,560.0,530.0,560.0,-10.0,124300,67073000,69,970.2,565,100,560,16500,795859095,795859095,0,0,0,0,0,0
 2026-04-07,PGJO,Bahtera Bumi Raya Tbk.,--U-4000000000I111-E---------X,580.0,0.0,575.0,570.0,570.0,-10.0,55100,31489500,37,987.5,570,49700,550,200,795859095,795859095,0,0,0,0,0,0

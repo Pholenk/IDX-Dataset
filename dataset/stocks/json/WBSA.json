@@ -1,0 +1,30 @@
+[
+  {
+    "Date": "2026-04-10",
+    "Ticker": "WBSA",
+    "Name": "BSA Logistics Indonesia Tbk.",
+    "Remarks": "--UO2130000000K211------------",
+    "Previous": 168.0,
+    "Open": 226.0,
+    "High": 226.0,
+    "Low": 226.0,
+    "Close": 226.0,
+    "Change": 58.0,
+    "Volume": 2048100,
+    "Value": 462870600,
+    "Frequency": 7815,
+    "IndexIndividual": 134.5,
+    "Offer": 0,
+    "OfferVolume": 0,
+    "Bid": 226,
+    "BidVolume": 2419399800,
+    "ListedShares": 8675000000,
+    "TradebleShares": 1800000000,
+    "WeightForIndex": 1800000000,
+    "ForeignSell": 7600,
+    "ForeignBuy": 0,
+    "NonRegularVolume": 143851300,
+    "NonRegularValue": 33026738800,
+    "NonRegularFrequency": 58
+  }
+]

@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-10,IGAR,Champion Pacific Indonesia Tbk.,--UO2130000000B131------------,480.0,0.0,486.0,480.0,480.0,0.0,32600,15673000,29,313.7,482,43800,480,600,927780600,927780600,99272524,0,0,0,0,0
 2026-04-09,IGAR,Champion Pacific Indonesia Tbk.,--UO2130000000B131------------,478.0,478.0,480.0,476.0,480.0,2.0,79500,37974600,38,313.7,480,7800,478,5300,927780600,927780600,99272524,16000,0,0,0,0
 2026-04-08,IGAR,Champion Pacific Indonesia Tbk.,--UO2130000000B131------------,476.0,478.0,478.0,468.0,478.0,2.0,119800,56474000,53,312.4,478,3100,474,300,927780600,927780600,99272524,0,24900,0,0,0
 2026-04-07,IGAR,Champion Pacific Indonesia Tbk.,--UO2130000000B131------------,470.0,470.0,484.0,470.0,476.0,6.0,44200,21148800,47,311.1,474,1200,472,700,927780600,927780600,99272524,0,0,0,0,0
