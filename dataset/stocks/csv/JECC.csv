@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-17,JECC,Jembo Cable Company Tbk.,--UO2130000000C131------------,955.0,0.0,960.0,945.0,960.0,5.0,4300,4099500,9,363.8,960,8200,950,100,756000000,756000000,44830800,0,0,0,0,0
 2026-04-16,JECC,Jembo Cable Company Tbk.,--UO2130000000C131------------,950.0,0.0,960.0,945.0,955.0,5.0,1600,1520500,11,361.9,955,900,945,100,756000000,756000000,44830800,0,0,0,0,0
 2026-04-15,JECC,Jembo Cable Company Tbk.,--UO2130000000C131------------,950.0,0.0,955.0,940.0,950.0,0.0,15800,14959500,10,360.0,950,9800,945,700,756000000,756000000,44830800,0,0,0,0,0
 2026-04-14,JECC,Jembo Cable Company Tbk.,--UO2130000000C131------------,940.0,0.0,960.0,940.0,950.0,10.0,2900,2747000,12,360.0,950,500,940,13300,756000000,756000000,44830800,0,0,0,0,0
