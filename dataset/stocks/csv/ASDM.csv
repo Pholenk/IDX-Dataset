@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-22,ASDM,Asuransi Dayin Mitra Tbk.,--UO2100000000G412---L--------,615.0,0.0,620.0,615.0,620.0,5.0,1700,1052000,6,365.9,620,4600,615,100,384000000,384000000,52531200,0,0,0,0,0
 2026-04-21,ASDM,Asuransi Dayin Mitra Tbk.,--UO2100000000G412---L--------,615.0,0.0,620.0,610.0,615.0,0.0,18800,11557000,11,362.9,620,6900,615,300,384000000,384000000,52531200,0,0,0,0,0
 2026-04-20,ASDM,Asuransi Dayin Mitra Tbk.,--UO2100000000G412---L--------,615.0,620.0,620.0,605.0,615.0,0.0,1100,676500,4,362.9,615,700,605,500,384000000,384000000,52531200,0,0,0,0,0
 2026-04-17,ASDM,Asuransi Dayin Mitra Tbk.,--UO2100000000G412---L--------,615.0,615.0,615.0,610.0,615.0,0.0,3100,1899000,6,362.9,610,1500,605,300,384000000,384000000,52531200,0,0,0,0,0

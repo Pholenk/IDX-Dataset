@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-22,SAGE,Saptausaha Gemilangindah Tbk.,--U-4130000000H111-----------X,31.0,0.0,31.0,31.0,31.0,0.0,2914600,90352600,141,31.0,32,270900,31,10000,8033527260,8033527260,1609918863,0,0,0,0,0
 2026-04-21,SAGE,Saptausaha Gemilangindah Tbk.,--U-4130000000H111-----------X,31.0,0.0,31.0,31.0,31.0,0.0,1473500,45678500,97,31.0,31,819900,30,3177600,8033527260,8033527260,1609918863,0,0,0,0,0
 2026-04-20,SAGE,Saptausaha Gemilangindah Tbk.,--U-4130000000H111-----------X,32.0,0.0,32.0,30.0,31.0,-1.0,4682400,141933100,173,31.0,31,1818800,30,2641100,8033527260,8033527260,1609918863,0,0,0,0,0
 2026-04-17,SAGE,Saptausaha Gemilangindah Tbk.,--U-4130000000H111-----------X,31.0,0.0,33.0,32.0,32.0,1.0,1929500,62342400,137,32.0,32,7700,31,1452000,8033527260,8033527260,1609918863,0,0,0,0,0
