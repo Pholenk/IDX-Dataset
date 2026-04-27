@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-27,INPP,Indonesian Paradise Property Tbk.,--UO2135000000H111------------,785.0,0.0,800.0,740.0,800.0,15.0,6800,5234500,10,761.9,795,200,750,500,11181971732,11181971732,997431878,0,0,0,0,0
 2026-04-24,INPP,Indonesian Paradise Property Tbk.,--UO2135000000H111------------,785.0,0.0,0.0,0.0,785.0,0.0,0,0,0,747.6,785,16400,745,200,11181971732,11181971732,997431878,0,0,0,0,0
 2026-04-23,INPP,Indonesian Paradise Property Tbk.,--UO2135000000H111------------,795.0,0.0,785.0,740.0,785.0,-10.0,27200,20625000,19,747.6,785,1800,750,400,11181971732,11181971732,997431878,1200,0,0,0,0
 2026-04-22,INPP,Indonesian Paradise Property Tbk.,--UO2135000000H111------------,795.0,0.0,0.0,0.0,795.0,0.0,0,0,0,757.1,795,900,735,200,11181971732,11181971732,997431878,0,0,0,0,0
