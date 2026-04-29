@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-04-29,SDPC,Millennium Pharmacon International Tbk.,--UO2100000000D111------------,193.0,0.0,194.0,192.0,192.0,-1.0,15900,3065400,24,128.2,192,1000,191,3900,1274000000,1274000000,210592200,0,0,0,0,0
 2026-04-28,SDPC,Millennium Pharmacon International Tbk.,--UO2100000000D111------------,192.0,192.0,196.0,190.0,193.0,1.0,304300,58691200,56,128.8,194,12100,193,1700,1274000000,1274000000,210592200,0,0,0,0,0
 2026-04-27,SDPC,Millennium Pharmacon International Tbk.,--UO2100000000D111------------,191.0,0.0,194.0,187.0,192.0,1.0,794000,151537400,76,128.2,192,18500,189,8600,1274000000,1274000000,210592200,80900,0,0,0,0
 2026-04-24,SDPC,Millennium Pharmacon International Tbk.,--UO2100000000D111------------,195.0,198.0,198.0,188.0,191.0,-4.0,338900,65260900,46,127.5,194,6900,188,18100,1274000000,1274000000,210592200,1800,0,0,0,0
