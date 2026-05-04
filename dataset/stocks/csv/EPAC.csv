@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-05-04,EPAC,Megalestari Epack Sentosaraya Tbk.,--U-4130000000B131-----------X,79.0,0.0,83.0,79.0,83.0,4.0,41313700,3422278300,463,75.5,83,985900,82,12500,3303400000,3303400000,735997520,0,0,0,0,0
 2026-04-30,EPAC,Megalestari Epack Sentosaraya Tbk.,--U-4130000000B131-----------X,75.0,0.0,79.0,77.0,79.0,4.0,18068800,1409931300,443,71.8,79,112900,78,60700,3303400000,3303400000,735997520,0,0,0,0,0
 2026-04-29,EPAC,Megalestari Epack Sentosaraya Tbk.,--U-4130000000B131-----------X,70.0,0.0,76.0,70.0,75.0,5.0,28389000,2079472400,559,68.2,75,10500,74,1200,3303400000,3303400000,735997520,15000,0,0,0,0
 2026-04-28,EPAC,Megalestari Epack Sentosaraya Tbk.,--U-4130000000B131-----------X,77.0,0.0,82.0,70.0,70.0,-7.0,58976600,4680357800,627,63.6,70,10584400,0,0,3303400000,3303400000,735997520,0,15000,0,0,0
