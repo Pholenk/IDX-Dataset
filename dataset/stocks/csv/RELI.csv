@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-05-05,RELI,Reliance Sekuritas Indonesia Tbk.,--UO2105000000G312------------,492.0,0.0,500.0,498.0,498.0,6.0,200,99800,2,229.8,498,300,492,300,1800000000,1800000000,258300000,0,0,0,0,0
 2026-05-04,RELI,Reliance Sekuritas Indonesia Tbk.,--UO2105000000G312------------,505.0,500.0,500.0,492.0,492.0,-13.0,1200,595200,5,227.1,498,1500,492,900,1800000000,1800000000,258300000,0,0,0,0,0
 2026-04-30,RELI,Reliance Sekuritas Indonesia Tbk.,--UO2105000000G312------------,490.0,0.0,525.0,490.0,505.0,15.0,23700,11859800,52,233.1,505,1800,490,2100,1800000000,1800000000,258300000,0,0,0,0,0
 2026-04-29,RELI,Reliance Sekuritas Indonesia Tbk.,--UO2105000000G312------------,490.0,0.0,505.0,490.0,490.0,0.0,3900,1936500,14,226.2,500,600,490,2000,1800000000,1800000000,258300000,0,0,0,0,0
