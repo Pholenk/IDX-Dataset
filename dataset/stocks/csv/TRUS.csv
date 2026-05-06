@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-05-06,TRUS,Trust Finance Indonesia Tbk,--UO2100000000G211------------,386.0,0.0,384.0,368.0,374.0,-12.0,35300,13091400,70,440.0,374,76600,372,3100,800000000,800000000,165760000,0,0,0,0,0
 2026-05-05,TRUS,Trust Finance Indonesia Tbk,--UO2100000000G211------------,380.0,0.0,390.0,368.0,386.0,6.0,15300,5713200,30,454.1,386,13500,378,400,800000000,800000000,165760000,0,0,0,0,0
 2026-05-04,TRUS,Trust Finance Indonesia Tbk,--UO2100000000G211------------,384.0,0.0,384.0,378.0,380.0,-4.0,4400,1674400,14,447.1,380,116500,378,8700,800000000,800000000,165760000,0,0,0,0,0
 2026-04-30,TRUS,Trust Finance Indonesia Tbk,--UO2100000000G211------------,386.0,386.0,392.0,380.0,384.0,-2.0,32500,12420000,89,451.8,388,3900,382,1800,800000000,800000000,165760000,0,600,0,0,0
