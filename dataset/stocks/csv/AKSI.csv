@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-05-07,AKSI,Mineral Sumberdaya Mandiri Tbk.,--UO2130000000K211------------,300.0,300.0,300.0,292.0,292.0,-8.0,106400,31518200,90,146.0,296,600,292,33400,720000000,720000000,54216000,0,0,0,0,0
 2026-05-06,AKSI,Mineral Sumberdaya Mandiri Tbk.,--UO2130000000K211------------,300.0,300.0,312.0,296.0,300.0,0.0,115700,34705400,77,150.0,302,1400,300,9700,720000000,720000000,54216000,0,21800,0,0,0
 2026-05-05,AKSI,Mineral Sumberdaya Mandiri Tbk.,--UO2130000000K211------------,300.0,0.0,312.0,296.0,300.0,0.0,587600,178760000,98,150.0,302,6200,300,51800,720000000,720000000,54216000,0,0,0,0,0
 2026-05-04,AKSI,Mineral Sumberdaya Mandiri Tbk.,--UO2130000000K211------------,332.0,330.0,330.0,294.0,300.0,-32.0,1937400,598948000,529,150.0,302,7500,300,21000,720000000,720000000,54216000,0,51800,0,0,0
