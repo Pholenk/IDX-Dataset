@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-05-08,SHID,Hotel Sahid Jaya International Tbk.,--UO2135000000E512------------,755.0,0.0,770.0,735.0,760.0,5.0,6600,4936500,27,35.3,760,2100,735,2800,1119326168,1119326168,160735238,900,0,0,0,0
 2026-05-07,SHID,Hotel Sahid Jaya International Tbk.,--UO2135000000E512------------,750.0,750.0,800.0,730.0,755.0,5.0,16400,12305500,61,35.1,755,1500,740,5600,1119326168,1119326168,160735238,0,0,0,0,0
 2026-05-06,SHID,Hotel Sahid Jaya International Tbk.,--UO2135000000E512------------,755.0,0.0,755.0,730.0,750.0,-5.0,2300,1688000,10,34.9,750,1700,735,3000,1119326168,1119326168,160735238,0,0,0,0,0
 2026-05-05,SHID,Hotel Sahid Jaya International Tbk.,--UO2135000000E512------------,755.0,0.0,785.0,740.0,755.0,0.0,4000,2981500,14,35.1,755,2700,740,1500,1119326168,1119326168,160735238,0,0,0,0,0

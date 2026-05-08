@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-05-08,SCNP,Selaras Citra Nusantara Perkasa Tbk.,--UO2130000000E212------------,163.0,163.0,167.0,157.0,163.0,0.0,386800,62313300,110,148.2,163,21000,161,9600,2500000000,2500000000,307750000,15300,0,0,0,0
 2026-05-07,SCNP,Selaras Citra Nusantara Perkasa Tbk.,--UO2130000000E212------------,162.0,0.0,166.0,160.0,163.0,1.0,388800,63363400,63,148.2,164,3500,162,1600,2500000000,2500000000,307750000,0,0,0,0,0
 2026-05-06,SCNP,Selaras Citra Nusantara Perkasa Tbk.,--UO2130000000E212------------,162.0,158.0,176.0,158.0,162.0,0.0,303300,50386700,179,147.3,164,8100,162,2400,2500000000,2500000000,307750000,0,0,0,0,0
 2026-05-05,SCNP,Selaras Citra Nusantara Perkasa Tbk.,--UO2130000000E212------------,162.0,167.0,168.0,156.0,162.0,0.0,918200,147629000,293,147.3,162,21100,159,600,2500000000,2500000000,307750000,500,0,0,0,0
