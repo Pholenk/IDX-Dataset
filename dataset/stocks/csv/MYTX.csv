@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-05-11,MYTX,Asia Pacific Investama Tbk.,--U-4100000000E413-E---------X,61.0,0.0,59.0,58.0,59.0,-2.0,184000,10852400,33,8.9,60,800,59,9200,7747281949,7747281949,589568156,0,0,0,0,0
 2026-05-08,MYTX,Asia Pacific Investama Tbk.,--U-4100000000E413-E---------X,64.0,0.0,61.0,59.0,61.0,-3.0,180300,10795800,29,9.2,64,278900,61,83500,7747281949,7747281949,589568156,0,0,0,0,0
 2026-05-07,MYTX,Asia Pacific Investama Tbk.,--U-4100000000E413-E---------X,61.0,0.0,67.0,62.0,64.0,3.0,159600,10644000,30,9.6,64,199500,62,20000,7747281949,7747281949,589568156,0,0,0,0,0
 2026-05-06,MYTX,Asia Pacific Investama Tbk.,--U-4100000000E413-E---------X,63.0,0.0,61.0,60.0,61.0,-2.0,201300,12106100,35,9.2,63,15700,61,90200,7747281949,7747281949,589568156,0,0,0,0,0
