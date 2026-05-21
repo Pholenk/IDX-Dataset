@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-05-21,PORT,Nusantara Pelabuhan Handal Tbk.,--UO2135000000J113------------,915.0,0.0,915.0,890.0,890.0,-25.0,7100,6322000,21,166.4,915,500,890,100,2813941985,2813941985,546186139,0,0,0,0,0
 2026-05-20,PORT,Nusantara Pelabuhan Handal Tbk.,--UO2135000000J113------------,910.0,0.0,915.0,885.0,915.0,5.0,4300,3817000,8,171.0,915,600,885,500,2813941985,2813941985,546186139,0,0,0,0,0
 2026-05-18,PORT,Nusantara Pelabuhan Handal Tbk.,--UO2135000000J113------------,905.0,905.0,915.0,890.0,890.0,-15.0,50600,45420000,35,166.4,920,1200,895,2600,2813941985,2813941985,546186139,0,100,0,0,0
 2026-05-13,PORT,Nusantara Pelabuhan Handal Tbk.,--UO2135000000J113------------,920.0,925.0,925.0,900.0,905.0,-15.0,5200,4772500,6,169.2,920,4700,900,9700,2813941985,2813941985,546186139,0,4400,0,0,0
