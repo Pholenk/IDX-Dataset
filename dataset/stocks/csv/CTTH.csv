@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-05-22,CTTH,Citatah Tbk.,--U-4100000000C121-----------X,202.0,0.0,182.0,182.0,182.0,-20.0,398700,72563400,73,7.7,182,47599900,0,0,1230839821,1230839821,535784574,0,9700,0,0,0
 2026-05-21,CTTH,Citatah Tbk.,--UO2100000000C121------------,202.0,0.0,0.0,0.0,202.0,0.0,0,0,0,8.5,0,0,0,0,1230839821,1230839821,535784574,0,0,23500,4206500,1
 2026-05-20,CTTH,Citatah Tbk.,--UO2100000000C121------------,202.0,0.0,0.0,0.0,202.0,0.0,0,0,0,8.5,0,0,0,0,1230839821,1230839821,535784574,0,0,25700,4626000,2
 2026-05-19,CTTH,Citatah Tbk.,--UO2100000000C121------------,202.0,0.0,0.0,0.0,202.0,0.0,0,0,0,8.5,0,0,0,0,1230839821,1230839821,535784574,0,0,6300,1197000,2
