@@ -1,4 +1,5 @@
 ﻿Date,Ticker,Name,Remarks,Previous,Open,High,Low,Close,Change,Volume,Value,Frequency,IndexIndividual,Offer,OfferVolume,Bid,BidVolume,ListedShares,TradebleShares,WeightForIndex,ForeignSell,ForeignBuy,NonRegularVolume,NonRegularValue,NonRegularFrequency
+2026-05-29,FOOD,Sentra Food Indonesia Tbk.,--U-4130000000D222-E---------X,165.0,0.0,180.0,180.0,180.0,15.0,2300,414000,6,133.3,180,21400,155,1000,650000000,650000000,150020000,0,0,0,0,0
 2026-05-26,FOOD,Sentra Food Indonesia Tbk.,--U-4130000000D222-E---------X,165.0,0.0,165.0,165.0,165.0,0.0,2700,445500,8,122.2,0,0,160,600,650000000,650000000,150020000,0,0,0,0,0
 2026-05-22,FOOD,Sentra Food Indonesia Tbk.,--U-4130000000D222-E---------X,154.0,0.0,169.0,154.0,169.0,15.0,3600,560600,9,125.2,169,16100,156,100,650000000,650000000,150020000,0,0,0,0,0
 2026-05-21,FOOD,Sentra Food Indonesia Tbk.,--U-4130000000D222-E---------X,171.0,0.0,169.0,154.0,154.0,-17.0,34500,5407200,18,114.1,154,100000,0,0,650000000,650000000,150020000,0,0,0,0,0
